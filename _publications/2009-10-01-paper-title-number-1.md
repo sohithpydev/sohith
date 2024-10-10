@@ -4,9 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://journalofmedicalanddentalfrontiers.com/wp-content/uploads/2024/06/1-Dexmed-Sup-Is-Jan-24.pdf'
+date: January 2024
+venue: 'Journal of Medical and Dental Frontiers'
 paperurl: 'https://journalofmedicalanddentalfrontiers.com/wp-content/uploads/2024/06/1-Dexmed-Sup-Is-Jan-24.pdf'
 citation: 'K Sohith Reddy, Dr. Major Priyank Sen, Dr. Sanjay Ashwamedh Kshirsagar, Dr. Hemangi Yashwant Jadhav,
 Dr. Safdhar Hasmi. R. Dexmedetomedine and Its Use in Different Routes – A Review. Jour Med Dent Fron,

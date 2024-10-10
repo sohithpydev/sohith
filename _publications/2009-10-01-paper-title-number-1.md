@@ -2,7 +2,7 @@
 title: "Dexmedetomedine and Its Use in Different Routes"
 collection: publications
 category: manuscripts
-permalink: https://journalofmedicalanddentalfrontiers.com/wp-content/uploads/2024/06/1-Dexmed-Sup-Is-Jan-24.pdf
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'

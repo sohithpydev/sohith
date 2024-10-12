@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 Here's an overview of my journey so far!
 
 Academic and Research Pursuits

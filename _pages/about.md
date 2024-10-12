@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
+![Laboratory](https://github.com/sohithpydev/sohith/blob/26bfd9458ca585f7921b7c7ce4c408a9b219ad71/images/lab_3.png){: .align-right width="300px"}
 Here's an overview of my journey so far!
 
 Academic and Research Pursuits

@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-![Laboratory](https://github.com/sohithpydev/sohith/blob/26bfd9458ca585f7921b7c7ce4c408a9b219ad71/images/lab_3.png){: .align-right width="300px"}
 Here's an overview of my journey so far!
 
 Academic and Research Pursuits
@@ -18,6 +17,7 @@ the subject topper in Molecular Biology and Immunology, which has been a signifi
 
 Research Experience
 =======
+![Laboratory](/images/lab_3.png){: .align-right width="300px"}
 In my role as a Remote Research Assistant at Manipal University College, Malaysia, I’ve delved into plant-based antimicrobial research, analyzing bioactive components in S. nigrum extract. Under Dr. Sugapriya's guidance, I employed GC-MS for compound identification and in silico docking studies using AutoDock Vina, discovering potential anti-TB agents. 
 My work extended to tuberculosis research, using systems biology approaches and Cytoscape for network analysis. At my University, I worked under Dr. Kannan on Alzheimer’s drug discovery, utilizing machine learning models like Random Forest and molecular docking simulations to predict drug candidates with high accuracy.
 

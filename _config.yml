@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Portfolio"
+title                    : "Sohith's Homepage"
 title_separator          : "-"
 name                     : &name "Sohith Reddy"
 description              : &description "A Prefinal Year Undergrad specialising in Bioinformatics. "

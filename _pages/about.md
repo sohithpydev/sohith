@@ -6,13 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+Here's an overview of my journey so far!
+
 Academic and Research Pursuits
 =========
-Currently pursuing a Bachelor of Engineering in Bioinformatics at Saveetha School of Engineering, SIMATS, my academic journey is driven by a deep interest in Computational Biology. My ultimate goal is to merge my passion for teaching and research, with aspirations of becoming a professor or a cancer researcher—perhaps both! During my studies, I’ve excelled as the subject topper in Molecular Biology and Immunology, which has been a significant academic milestone. As a TEEP Scholar, I am set to join National Dong Hwa University (NDHU), Taiwan, in January 2025 as a Student Research Intern, where I will focus on machine learning and mass spectrometry analysis for my upcoming research.
+Currently pursuing a Bachelor of Engineering in Bioinformatics at Saveetha School of Engineering, SIMATS, my academic journey is driven by a deep interest in Computational Biology. 
+My ultimate goal is to merge my passion for teaching and research, with aspirations of becoming a professor or a cancer researcher—perhaps both! During my studies, I’ve excelled as 
+the subject topper in Molecular Biology and Immunology, which has been a significant academic milestone. As a TEEP Scholar, I am set to join National Dong Hwa University (NDHU), Taiwan, in January 2025 as a Student Research Intern, where I will focus on machine learning and mass spectrometry analysis for my upcoming research.
 
 Research Experience
 =======
-In my role as a Remote Research Assistant at Manipal University College, Malaysia, I’ve delved into plant-based antimicrobial research, analyzing bioactive components in S. nigrum extract. Under Dr. Sugapriya's guidance, I employed GC-MS for compound identification and in silico docking studies using AutoDock Vina, discovering potential anti-TB agents. My work extended to tuberculosis research, using systems biology approaches and Cytoscape for network analysis. At Saveetha University, I worked under Dr. Kannan on Alzheimer’s drug discovery, utilizing machine learning models like Random Forest and molecular docking simulations to predict drug candidates with high accuracy.
+In my role as a Remote Research Assistant at Manipal University College, Malaysia, I’ve delved into plant-based antimicrobial research, analyzing bioactive components in S. nigrum extract. Under Dr. Sugapriya's guidance, I employed GC-MS for compound identification and in silico docking studies using AutoDock Vina, discovering potential anti-TB agents. 
+My work extended to tuberculosis research, using systems biology approaches and Cytoscape for network analysis. At my University, I worked under Dr. Kannan on Alzheimer’s drug discovery, utilizing machine learning models like Random Forest and molecular docking simulations to predict drug candidates with high accuracy.
 
 Industry Internships and Contributions
 ======

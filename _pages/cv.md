@@ -16,7 +16,7 @@ B.E. in Bioinformatics, SIMATS University, 2026
 *Relevant Coursework: Applied Statistics & Probability | Systems Biology | Cell & Molecular Biology | Recombinant DNA Technology*
 
 
-RESEARCH EXPERIENCE
+Research Experience
 ======
 **Remote Research Assistant [Manipal University College, Malaysia]**                                                 
 *Apr ’24 - Present*

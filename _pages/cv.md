@@ -37,13 +37,11 @@ Research Experience
   
 Skills
 ======
-**Laboratory skills**
+**Laboratory skills**   
+Pipetting, Buffer, and Culture Media Preparation, Cell Culture, Plasmid and Genomic DNA Isolation, PCR, Gel Electrophoresis, Molecular Cloning, Thin Layer Chromatography, Assay of Biomolecules, Staining, Handling Equipment such as Nanodrop Spectrophotometer, Colorimeter, Autoclave, and Centrifuge.
 
-Pipetting, Buffer, and Culture Media Preparation | Cell Culture | Plasmid and Genomic DNA Isolation | PCR, Gel Electrophoresis | Molecular Cloning | Thin Layer Chromatography | Assay of Biomolecules | Staining | Handling Equipments such as Nanodrop Spectrophotometer | Colorimeter | Autoclave and Centrifuge 
-
-**Computational skills**
-
-Python (RDKit, Scikit, Numpy, Pandas, Matplotlib, Seaborn) | R | Cytoscape | CellDesigner | PyRx | Chimera | PyMol | LigPlot along with MS Excel and Powerpoint 
+**Computational skills**   
+Python (RDKit, Scikit, Numpy, Pandas, Matplotlib, Seaborn), R, Cytoscape, CellDesigner, PyRx, Chimera, PyMol, LigPlot along with MS Excel and Powerpoint 
 
 Publications
 ======

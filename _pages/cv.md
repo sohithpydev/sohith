@@ -27,7 +27,7 @@ RESEARCH EXPERIENCE
 * Applied a systems biology approach to tuberculosis research, identifying key hub genes responsible for the disease. Utilized Cytoscape for network analysis and R programming (with caret, dplyr, ggplot2 packages) for data analysis, machine learning model building, and visualization to complement the wet lab research.
 * Collaborated on comprehensive drug discovery and therapeutics reviews with Dr. Sugapriya, integrating her leukemia-focused wet lab research with my dry lab expertise, advancing interdisciplinary research on emerging medical challenges.
 
-**Undergraduate Research Student [Saveetha School of Engineering, India]**
+**Undergraduate Research Student [Saveetha School of Engineering, India]**    
 *Jan ’23 - Mar ’24*
 
 * Under Dr. Kannan's supervision, conducted data preprocessing and exploratory data analysis (EDA) on the ChEMBL dataset for Alzheimer's drug discovery using pandas and matplotlib/seaborn

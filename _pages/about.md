@@ -19,12 +19,14 @@ Research Experience
 ====
 **Current Experience**
 
+![Research](/sohith/images/docked.png){: .align-right width="300px"}
 **Remote Research Intern, Genomac Hub, Ogbomosho, Nigeria**                                                                                      
 *Sep'24-Present*
 
 Currently working on identifying anti-cancer agents derived from various species of soil bacteria using bioinformatics tools.
 
-![Research](/sohith/images/lab_3.png){: .align-right width="300px"}
+![Research](/sohith/images/lab_3.png){: .align-right width="150px"}
+![Research](/sohith/images/lab_2.png){: .align-right width="150px"}
 **Remote Research Assistant, Manipal University College, Melaka, Malaysia**                                                                       
 *Apr'24-Present*
 

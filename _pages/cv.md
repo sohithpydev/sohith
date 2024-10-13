@@ -56,12 +56,17 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Volunteering Experience
+====
+**Data Science Intern [Suvidha Foundation, Nagpur]**                                                                              
+*Nov’23 - Dec’23*
+
+* Implemented predictive modeling techniques to optimize resource allocation within the NGO, leading to a 25% reduction in project overhead costs and enhancing operational efficiency across all departments by streamlining resource distribution, and raised Rs. 2000 in additional funding for the organization.
+
+**Teaching Intern [Jeevan Jagriti Foundation, Delhi]**                                                                                
+*Sep’22 - Jan’23*
+
+* Conducted online classes for underprivileged students using Google Meet, ensuring 80% attendance. Improved student pass rate to 70% and significantly boosted one student's final score from 70 to 90+.
+* Led workshops for parents on student wellness and managed learning materials provided through donations, optimizing the educational experience for remote learners.
+
+

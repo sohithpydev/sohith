@@ -1,7 +1,7 @@
 ---
 title: "Computer Aided Drug Discovery Tool for Leukemia"
-excerpt: "Computational Drug Discovery Tool For Targeting Acute Myeloid Leukemia-Associated Tyrosine Kinase, MCL-1, Protein Kinase C and Histone Acetyltransferase                                                                                                  
-Team Size: 1 |  Role: Sole Developer | Advisor: Dr. Kannan M <br/><img src='/images/tk.png'>"
+excerpt: "Computational Drug Discovery Tool For Targeting Acute Myeloid Leukemia-Associated Tyrosine Kinase, MCL-1, Protein Kinase C and Histone Acetyltransferase |                                                                               
+Team Size: 1 |  Role: Sole Developer | Advisor: [Dr. Kannan M](https://scholar.google.co.in/citations?hl=en&user=RwsuY0gAAAAJ) "
 collection: projects 
 ---
 

@@ -37,7 +37,7 @@ Conducted in silico docking studies on M. tuberculosis MurE ligase using AutoDoc
 **Undergraduate Research Student, Saveetha School of Engineering, Chennai, India**                                                                       
 *January 2023 - March 2024*
 
-Under the supervision of Dr. Kannan, I conducted data preprocessing and exploratory data analysis (EDA) on the ChEMBL dataset for Alzheimer’s drug discovery using pandas and matplotlib/seaborn. I implemented and compared various machine learning models (Random Forest, SVM, XGBoost), achieving an accuracy of 82% with Random Forest for predicting potential drug candidates. Additionally, I performed molecular docking analysis using AutoDock Vina, applied Lipinski's Rule of Five with RDKit, and executed molecular dynamics simulations using GROMACS to validate and analyze protein-ligand interactions of promising Alzheimer's drug candidates.
+Under the supervision of [Dr. Kannan](https://scholar.google.co.in/citations?hl=en&user=RwsuY0gAAAAJ), I conducted data preprocessing and exploratory data analysis (EDA) on the ChEMBL dataset for Alzheimer’s drug discovery using pandas and matplotlib/seaborn. I implemented and compared various machine learning models (Random Forest, SVM, XGBoost), achieving an accuracy of 82% with Random Forest for predicting potential drug candidates. Additionally, I performed molecular docking analysis using AutoDock Vina, applied Lipinski's Rule of Five with RDKit, and executed molecular dynamics simulations using GROMACS to validate and analyze protein-ligand interactions of promising Alzheimer's drug candidates.
 
 
 

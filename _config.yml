@@ -15,6 +15,7 @@ description              : &description "A Prefinal Year Undergrad specialising 
 url                      : https://sohithpydev.github.io/sohith/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sohithpydev.github.io/sohith/"
+github                   : "https://github.com/sohithpydev"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

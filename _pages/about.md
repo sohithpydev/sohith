@@ -24,7 +24,7 @@ Research Experience
 
 Currently working on identifying anti-cancer agents derived from various species of soil bacteria using bioinformatics tools.
 
-![Research](sohithpydev/sohith/images/lab_3.png)
+![Research](/sohith/images/lab_3.png)
 
 **Remote Research Assistant, Manipal University College, Melaka, Malaysia**                                                                       
 *Apr'24-Present*

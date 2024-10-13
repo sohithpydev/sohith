@@ -9,4 +9,4 @@ We developed a stress detection tool by leveraging Smart-Yoga Pillow (SaYo) para
 
 [Download paper](https://docs.google.com/document/d/1AtuUvZQRJwqT8qZL8RGKEs6E9IU-Kzf-jOqZuscHe3g/edit?usp=sharing)
 
-[Application ↗️](https://stress-detect.streamlit.app/)
+[Application ↗️](https://stressdetect.streamlit.app/)

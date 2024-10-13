@@ -13,7 +13,7 @@ Education
 ======
 B.E. in Bioinformatics, SIMATS University, 2026
 
-*Relevant Coursework: Applied Statistics & Probability | Systems Biology | Cell & Molecular Biology | Recombinant DNA Technology*
+* Relevant Coursework: Applied Statistics & Probability, Systems Biology, Cell & Molecular Biology,  Recombinant DNA Technology
 
 
 Research Experience

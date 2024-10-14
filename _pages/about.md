@@ -34,7 +34,7 @@ Analyzed Solanum nigrum extract for antibacterial compounds using GC-MS data, su
 Conducted in silico docking studies on M. tuberculosis MurE ligase using AutoDock Vina to identify potential anti-TB agents from S. nigrum extract.
 
 **Previous Experience**
-![Research](/sohith/images/lab.png){: .align-left width="150px"}
+
 **Undergraduate Research Student, Saveetha School of Engineering, Chennai, India**                                                                       
 *January 2023 - March 2024*
 

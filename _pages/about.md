@@ -19,21 +19,21 @@ Research Experience
 ====
 **Current Experience**
 
-![Research](/sohith/images/docked.png){: .align-right width="300px"}
-**Remote Research Intern, Genomac Hub, Ogbomosho, Nigeria**                                                                                      
-*Sep'24-Nov'24*
-
-I worked on selecting peptides with potential anti-cancer activity by analyzing key biochemical properties such as hydrophobicity, net charge, stability, half-life, and Boman index. These properties help determine a peptide's ability to interact with cancer cell membranes, its stability in biological environments, and targeting specificity. Using correlation heat maps and PCA analysis, our team identified 28 bacterial peptides, 18 probiotic bacterial peptides, 6 fungal peptides, and 4 metagenomic peptides. My specific focus was on peptides from the soil bacterium Streptomyces parvus, contributing to the overall findings of potential anti-cancer candidates. [Graduation Ceremony](https://www.youtube.com/live/Bzw7sYRSYVg?si=28OAN3kkAOeAFobr)
-
 ![Research](/sohith/images/lab_3.png){: .align-right width="150px"}
 ![Research](/sohith/images/lab_2.png){: .align-right width="150px"}
 **Remote Research Assistant, Manipal University College, Melaka, Malaysia**                                                                       
 *Apr'24-Present*
 
 Analyzed Solanum nigrum extract for antibacterial compounds using GC-MS data, successfully identifying 50 bioactive components under the guidance of [Dr. Sugapriya](https://scholar.google.co.in/citations?hl=en&user=dieHes4AAAAJ). This research has laid the groundwork for novel antimicrobial investigations using plant-based compounds.
-Conducted in silico docking studies on M. tuberculosis MurE ligase using AutoDock Vina to identify potential anti-TB agents from S. nigrum extract.
+Conducted in silico docking studies on M. tuberculosis MurE ligase using AutoDock Vina to identify potential anti-TB agents from S. nigrum extract. Currently, I am assisting with the writing of research papers, contributing to book chapters, and supporting various ongoing projects in the field of antimicrobial research.
 
 **Previous Experience**
+
+![Research](/sohith/images/docked.png){: .align-right width="300px"}
+**Remote Research Intern, Genomac Hub, Ogbomosho, Nigeria**                                                                                      
+*Sep'24-Nov'24*
+
+I worked on selecting peptides with potential anti-cancer activity by analyzing key biochemical properties such as hydrophobicity, net charge, stability, half-life, and Boman index. These properties help determine a peptide's ability to interact with cancer cell membranes, its stability in biological environments, and targeting specificity. Using correlation heat maps and PCA analysis, our team identified 28 bacterial peptides, 18 probiotic bacterial peptides, 6 fungal peptides, and 4 metagenomic peptides. My specific focus was on peptides from the soil bacterium Streptomyces parvus, contributing to the overall findings of potential anti-cancer candidates. [Graduation Ceremony](https://www.youtube.com/live/Bzw7sYRSYVg?si=28OAN3kkAOeAFobr)
 
 **Undergraduate Research Student, Saveetha School of Engineering, Chennai, India**                                                                       
 *Jan'23 - Mar'24*

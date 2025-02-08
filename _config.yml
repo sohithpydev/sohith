@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Sohith Reddy"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Incoming Research Student @ NDHU, Taiwan | III Year UG Bioinformatics @ SIMATS, India "
+  bio              : "Research Student @ NDHU, Taiwan | III Year UG Bioinformatics @ SIMATS, India "
   location         : "Chennai, India"
   University       : "SIMATS University"
   email            : "sohith.bme@gmail.com" 
@@ -36,6 +36,7 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Sohith-Reddy-2"
   linkedin         : "https://www.linkedin.com/in/sohith-reddy-9a1a96229/"
+
 
 
 # Publication Category - The following the list of publication categories and their headings

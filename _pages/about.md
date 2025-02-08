@@ -9,15 +9,20 @@ redirect_from:
 
 🧑🏽‍💻 I'm a pre-final year undergraduate student specialising in bioinformatics at **SIMATS, Chennai**.
 
-🧑🏽‍🔬 My research interests are Tuberculosis, Biological non-linear dynamics, Computational neuroscience, and Systems biology.
+🧑🏽‍🔬 My research interests are Tuberculosis, Biological non-linear dynamics, Computational Neuroscience, and Systems biology.
 
-📚 I'm currently working on building a server: **SchizoDock**, a computer-aided drug discovery (CADD) tool for schizophrenia!
+📚 I'm currently working on building an AI-driven platform for early detection of Mycobacterium tuberculosis!
 
 📈 I'm also interested in assisting others on their path in the world of bioinformatics and academia.
 
 Research Experience
 ====
 **Current Experience**
+
+**Research Intern, National Dong Hwa University, Hualien, Taiwan**
+*JAN' 25-Present*
+Operating MALDI-TOF mass spectrometer at [Biophysics Mass Spectrometry Lab, NDHU](http://faculty.ndhu.edu.tw/~PENGW/contact/) for sample analysis and developing ML models for tuberculosis classification using acquired spectral data
+Performing statistical analysis and feature selection to identify significant m/z peaks, coupled with spectral data visualization for enhanced interpretability.
 
 ![Research](/sohith/images/lab_3.png){: .align-right width="150px"}
 ![Research](/sohith/images/lab_2.png){: .align-right width="150px"}

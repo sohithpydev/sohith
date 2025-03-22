@@ -19,8 +19,8 @@ Research Experience
 ====
 **Current Experience**
 
-![Research](/sohith/images/ndhu_1.png){: .align-right width="150px"}
-![Research](/sohith/images/ndhu_2.png){: .align-right width="150px"}
+![Research](/sohith/images/ndhu_1.JPG){: .align-right width="150px"}
+![Research](/sohith/images/ndhu_2.jpeg){: .align-right width="150px"}
 **Research Intern, National Dong Hwa University, Hualien, Taiwan**                                                                                 
 
 *JAN' 25 - Present*

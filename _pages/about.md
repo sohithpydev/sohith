@@ -9,7 +9,7 @@ redirect_from:
 
 🧑🏽‍💻 I'm a pre-final year undergraduate student specializing in bioinformatics at **SIMATS, Chennai**.
 
-🧑🏽‍🔬 My research interests are Tuberculosis, Biological non-linear dynamics, Computational Neuroscience, and Systems biology.
+🧑🏽‍🔬 My research interests lie at the intersection of AI and healthcare, with a focus on neurodegenerative disorders such as Epilepsy, Parkison's, and Alzheimer's, as well as infectious diseases like tuberculosis. Additionally, I am actively engaged in mass spectrometry analysis and systems biology to drive biomedical innovations.
 
 📚 I'm currently working on building an AI-driven platform for early detection of Mycobacterium tuberculosis!
 

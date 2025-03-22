@@ -15,7 +15,7 @@ description              : &description "A Prefinal Year Undergrad specialising 
 url                      : "https://sohithpydev.github.io/sohith/"   #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sohithpydev.github.io/sohith/"
-github                   : "https://github.com/sohithpydev"
+github                   : "sohithpydev/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -33,10 +33,10 @@ author:
   # Academic websites
   googlescholar    : "https://scholar.google.co.in/citations?view_op=list_works&hl=en&hl=en&user=2ZADAfIAAAAJ"
   orcid            : "https://orcid.org/0009-0000-9043-8492"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=sohith+reddy"
   researchgate     : "https://www.researchgate.net/profile/Sohith-Reddy-2"
   linkedin         : "sohith-reddy-9a1a96229"
-  github           : "https://github.com/sohithpydev/"
+  github           : "sohithpydev/
 
 
 

@@ -24,8 +24,7 @@ Research Experience
 **Research Intern, National Dong Hwa University, Hualien, Taiwan**                                                                                 
 *JAN' 25 - JUN' 25*
 
-Operating MALDI-TOF mass spectrometer at [Biophysics Mass Spectrometry Lab, NDHU](http://faculty.ndhu.edu.tw/~PENGW/contact/) for sample analysis and developing ML models for tuberculosis classification using acquired spectral data.
-Performing statistical analysis and feature selection to identify significant m/z peaks, coupled with spectral data visualization for enhanced interpretability. Supervisor: [Dr. Wing Peng-Ping](https://www.researchgate.net/profile/Wen-Ping-Peng/research)
+Operating MALDI-TOF mass spectrometer at [Biophysics Mass Spectrometry Lab, NDHU](http://faculty.ndhu.edu.tw/~PENGW/contact/) for TB and NTM sample analysis under the supervision of [Dr. Wing Peng-Ping](https://www.researchgate.net/profile/Wen-Ping-Peng/research) and developing ML models for tuberculosis classification using acquired spectral data. Performing statistical analysis and feature selection to identify significant m/z peaks, coupled with spectral data visualization for enhanced interpretability.
 
 
 ![Research](/sohith/images/lab_3.png){: .align-right width="150px"}
@@ -33,8 +32,7 @@ Performing statistical analysis and feature selection to identify significant m/
 **Remote Research Assistant, Manipal University College, Melaka, Malaysia**                                                                       
 *APR' 24 - PRESENT*
 
-Analyzed Solanum nigrum extract for antibacterial compounds using GC-MS data, successfully identifying 50 bioactive components under the guidance of [Dr. Sugapriya](https://scholar.google.co.in/citations?hl=en&user=dieHes4AAAAJ). This research has laid the groundwork for novel antimicrobial investigations using plant-based compounds.
-Conducted in silico docking studies on M. tuberculosis MurE ligase using AutoDock Vina to identify potential anti-TB agents from S. nigrum extract. Currently, I am assisting with writing research papers, contributing to book chapters, and supporting various ongoing projects in the field of antimicrobial research.
+Analyzed Solanum nigrum extract for antibacterial compounds using GC-MS data, successfully identifying 50 bioactive components under the guidance of [Dr. Sugapriya](https://scholar.google.co.in/citations?hl=en&user=dieHes4AAAAJ). This research has laid the groundwork for novel antimicrobial investigations using plant-based compounds.Conducted in silico docking studies on M. tuberculosis MurE ligase using AutoDock Vina to identify potential anti-TB agents from S. nigrum extract. Currently, I am assisting with writing research papers, contributing to book chapters, and supporting various ongoing projects in the field of antimicrobial research.
 
 
 **Previous Experience**

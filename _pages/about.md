@@ -37,6 +37,15 @@ Analyzed Solanum nigrum extract for antibacterial compounds using GC-MS data, su
 
 **Previous Experience**
 
+![Research](/sohith/images/jinr_1.JPG){: .align-right width="150px"}
+![Research](/sohith/images/jinr_2.jpeg){: .align-right width="150px"}
+**Research Intern, Joint Institute for Nuclear Research, Moscow, Russia**
+
+*MAR' 25 - APR' 25*
+
+During this internship, I focused on histological analysis of the central nervous system post-irradiation, with two key objectives. First, I performed manual classification of neurons and glial cells using ImageJ’s Cell Counter plugin, and mapped anatomical brain regions with guidance from the Allen Brain Atlas and classical histology references. Second, I quantified apoptotic cell death by analyzing TUNEL-stained sections to detect and compare TUNEL-positive cells between control and irradiated samples. This integrated approach combined traditional neurohistology with digital image analysis to enhance the accuracy and efficiency of CNS pathology assessment. [Report Link](https://docs.google.com/document/d/1SDh0sFIgMSiuCpJ-axugk5Nn8dxYnNOT94AW9oLpdHU/edit?usp=sharing)
+
+
 ![Research](/sohith/images/docked.png){: .align-right width="300px"}
 **Remote Research Intern, Genomac Hub, Ogbomosho, Nigeria**                                                                                      
 *SEP' 24 - NOV' 24*

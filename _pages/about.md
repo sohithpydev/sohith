@@ -21,15 +21,15 @@ Research Experience
 
 ![Research](/sohith/images/ndhu_1.JPG){: .align-right width="150px"}
 ![Research](/sohith/images/ndhu_2.jpeg){: .align-right width="150px"}
-**Research Intern, National Dong Hwa University, Hualien, Taiwan**                                                                                 
+**Research Intern, National Dong Hwa University, Hualien, Taiwan**                                                                              
 *JAN' 25 - JUN' 25*
 
 Operating MALDI-TOF mass spectrometer at [Biophysics Mass Spectrometry Lab, NDHU](http://faculty.ndhu.edu.tw/~PENGW/contact/) for TB and NTM sample analysis under the supervision of [Dr. Wing Peng-Ping](https://www.researchgate.net/profile/Wen-Ping-Peng/research) and developing ML models for tuberculosis classification using acquired spectral data. Performing statistical analysis and feature selection to identify significant m/z peaks, coupled with spectral data visualization for enhanced interpretability.
 
 
-![Research](/sohith/images/lab_3.png){: .align-right width="150px"}
-![Research](/sohith/images/lab_2.png){: .align-right width="150px"}
-**Remote Research Assistant, Manipal University College, Melaka, Malaysia**                                                                       
+![Research](/sohith/images/lab_3.png){: .align-right width="200px"}
+![Research](/sohith/images/lab_2.png){: .align-right width="200px"}
+**Remote Research Assistant, Manipal University College, Melaka, Malaysia**                                                                   
 *APR' 24 - PRESENT*
 
 Analyzed Solanum nigrum extract for antibacterial compounds using GC-MS data, successfully identifying 50 bioactive components under the guidance of [Dr. Sugapriya](https://scholar.google.co.in/citations?hl=en&user=dieHes4AAAAJ). This research has laid the groundwork for novel antimicrobial investigations using plant-based compounds.Conducted in silico docking studies on M. tuberculosis MurE ligase using AutoDock Vina to identify potential anti-TB agents from S. nigrum extract. Currently, I am assisting with writing research papers, contributing to book chapters, and supporting various ongoing projects in the field of antimicrobial research.
@@ -37,16 +37,14 @@ Analyzed Solanum nigrum extract for antibacterial compounds using GC-MS data, su
 
 **Previous Experience**
 
-![Research](/sohith/images/jinr_1.JPG){: .align-right width="150px"}
-![Research](/sohith/images/jinr_2.jpeg){: .align-right width="150px"}
-**Research Intern, Joint Institute for Nuclear Research, Moscow, Russia**
-
+![Research](/sohith/images/jinr_1.jpg){: .align-right width="350px"}
+**Research Intern, Joint Institute for Nuclear Research, Moscow, Russia**                                                                     
 *MAR' 25 - APR' 25*
 
 During this internship, I focused on histological analysis of the central nervous system post-irradiation, with two key objectives. First, I performed manual classification of neurons and glial cells using ImageJ’s Cell Counter plugin. I mapped anatomical brain regions with guidance from the Allen Brain Atlas and classical histology references. Second, I quantified apoptotic cell death by analyzing TUNEL-stained sections to detect and compare TUNEL-positive cells between control and irradiated samples. This integrated approach combined traditional neurohistology with digital image analysis to enhance the accuracy and efficiency of CNS pathology assessment. [Report Link](https://docs.google.com/document/d/1SDh0sFIgMSiuCpJ-axugk5Nn8dxYnNOT94AW9oLpdHU/edit?usp=sharing)
 
 
-![Research](/sohith/images/docked.png){: .align-right width="300px"}
+![Research](/sohith-portfolio/images/docked.png){: .align-right width="350px"}
 **Remote Research Intern, Genomac Hub, Ogbomosho, Nigeria**                                                                                      
 *SEP' 24 - NOV' 24*
 

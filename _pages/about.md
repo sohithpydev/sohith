@@ -7,13 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-🧑🏽‍💻 I'm a pre-final year undergraduate student specializing in bioinformatics at **SIMATS, Chennai**.
+🧑🏽‍💻 I’m a pre-final year undergraduate in Bioinformatics at Saveetha School of Engineering, SIMATS University, Chennai.
 
-🧑🏽‍🔬 My research interests lie at the intersection of AI and healthcare, with a focus on neurodegenerative disorders such as Epilepsy, Parkinson's, and Alzheimer's, as well as infectious diseases like tuberculosis. Additionally, I am actively engaged in mass spectrometry analysis and systems biology to drive biomedical innovations.
+🧬 My passion lies in blending biology with machine learning to solve real-world healthcare problems. I work at the intersection of computational drug discovery, AI-powered diagnostics, and molecular modeling, focusing on diseases like tuberculosis, leukemia, and schizophrenia.
 
-📚 I'm currently working on building an AI-driven platform for the early detection of Mycobacterium tuberculosis!
+🧑🏽‍🔬 I’m currently interning at National Dong Hwa University, Taiwan, where I analyze MALDI-TOF mass spectrometry data to develop ML models for TB classification. My work also extends to QSAR modeling, systems biology, and predictive analytics in biomedical research.
 
-📈 I'm also interested in assisting others on their path in bioinformatics and academia.
+📚 I’ve contributed to multiple international research projects, filed patents, published peer-reviewed papers, and love mentoring students in STEM, especially when it comes to making complex science accessible.
+
+🌏 Outside the lab, I’m a travel and food enthusiast who loves discovering new places and flavors during my internships abroad. Whether it’s finding a quiet café to sketch ideas or planning my next research sprint, I’m always exploring the world around me. I hope to continue this balance of adventure and academic growth throughout my master’s and PhD journey.
+
+Let’s connect and collaborate if you’re into impactful science, global research, or great coffee ☕️!
 
 Research Experience
 ====

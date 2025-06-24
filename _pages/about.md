@@ -9,7 +9,7 @@ redirect_from:
 
 🧑🏽‍💻 I’m a pre-final year undergraduate in Bioinformatics at Saveetha School of Engineering, SIMATS University, Chennai.
 
-🧬 My passion lies in blending biology with machine learning to solve real-world healthcare problems. I work at the intersection of computational drug discovery, AI-powered diagnostics, and molecular modeling, focusing on diseases like tuberculosis, leukemia, and schizophrenia.
+🧬 My passion lies in combining biology with machine learning to solve real-world healthcare problems. I work at the intersection of computational drug discovery, AI-powered diagnostics, and molecular modeling, with a focus on diseases such as tuberculosis, leukemia, and schizophrenia.
 
 🧑🏽‍🔬 I’m currently interning at National Dong Hwa University, Taiwan, where I analyze MALDI-TOF mass spectrometry data to develop ML models for TB classification. My work also extends to QSAR modeling, systems biology, and predictive analytics in biomedical research.
 
@@ -23,6 +23,14 @@ Research Experience
 ====
 **Current Experience**
 
+**Upcoming Research Intern, KEK, Tsukuba, Japan**
+
+* JULY' 25 - AUG' 25*
+
+Will be working in Structural Biology Research Center, Institute of Materials Structure Science, High Energy Accelerator Research Organization (KEK) under [Prof. Senda](https://www2.kek.jp/imss/sbrc/eng/about/labhead.html)
+
+**Previous Experience**
+
 ![Research](/sohith/images/ndhu_1.JPG){: .align-right width="150px"}
 ![Research](/sohith/images/ndhu_2.jpeg){: .align-right width="150px"}
 **Research Intern, National Dong Hwa University, Hualien, Taiwan**                                                                              
@@ -34,27 +42,20 @@ Operating MALDI-TOF mass spectrometer at [Biophysics Mass Spectrometry Lab, NDHU
 ![Research](/sohith/images/lab_3.png){: .align-right width="200px"}
 ![Research](/sohith/images/lab_2.png){: .align-right width="200px"}
 **Remote Research Assistant, Manipal University College, Melaka, Malaysia**                                                                   
-*APR' 24 - PRESENT*
+*MAY' 24 - APR'24*
 
 Analyzed Solanum nigrum extract for antibacterial compounds using GC-MS data, successfully identifying 50 bioactive components under the guidance of [Dr. Sugapriya](https://scholar.google.co.in/citations?hl=en&user=dieHes4AAAAJ). This research has laid the groundwork for novel antimicrobial investigations using plant-based compounds. Conducted in silico docking studies on M. tuberculosis MurE ligase using AutoDock Vina to identify potential anti-TB agents from S. nigrum extract. Currently, I am assisting with writing research papers, contributing to book chapters, and supporting various ongoing projects in the field of antimicrobial research.
-
-
-**Previous Experience**
 
 ![Research](/sohith/images/jinr_1.jpg){: .align-right width="350px"}
 **Research Intern, Joint Institute for Nuclear Research, Moscow, Russia**                                                                     
 *MAR' 25 - APR' 25*
 
-During this internship, I focused on histological analysis of the central nervous system post-irradiation, with two key objectives. First, I performed manual classification of neurons and glial cells using ImageJ’s Cell Counter plugin. I mapped anatomical brain regions with guidance from the Allen Brain Atlas and classical histology references. Second, I quantified apoptotic cell death by analyzing TUNEL-stained sections to detect and compare TUNEL-positive cells between control and irradiated samples. This integrated approach combined traditional neurohistology with digital image analysis to enhance the accuracy and efficiency of CNS pathology assessment. [Report Link](https://docs.google.com/document/d/1SDh0sFIgMSiuCpJ-axugk5Nn8dxYnNOT94AW9oLpdHU/edit?usp=sharing)
-
-
+During this internship, I focused on histological analysis of the central nervous system post-irradiation, with two key objectives. First, I performed manual classification of neurons and glial cells using ImageJ’s Cell Counter plugin. I mapped anatomical brain regions with guidance from the Allen Brain Atlas and classical histology references. Second, I quantified apoptotic cell death by analyzing TUNEL-stained sections to detect and compare TUNEL-positive cells between control and irradiated samples. This integrated approach combined traditional neurohistology with digital image analysis to enhance the accuracy and efficiency of CNS pathology assessment. [Report Link](https://docs.google.com/document/d/1SDh0sFIgMSiuCpJ-axugk5Nn8dxYnNOT94AW9oLpdHU/edit?usp=sharing)                                                         
 ![res](/sohith/images/docked.png){: .align-right width="350px"}
 **Remote Research Intern, Genomac Hub, Ogbomosho, Nigeria**                                                                                      
 *SEP' 24 - NOV' 24*
 
-I worked on selecting peptides with potential anti-cancer activity by analyzing key biochemical properties such as hydrophobicity, net charge, stability, half-life, and Boman index. These properties help determine a peptide's ability to interact with cancer cell membranes, stability in biological environments, and target specificity. Using correlation heat maps and PCA analysis, our team identified 28 bacterial peptides, 18 probiotic bacterial peptides, 6 fungal peptides, and 4 metagenomic peptides. My specific focus was on peptides from the soil bacterium Streptomyces parvus, contributing to the overall findings of potential anti-cancer candidates. [Graduation Ceremony](https://www.youtube.com/live/Bzw7sYRSYVg?si=28OAN3kkAOeAFobr)
-
-
+I worked on selecting peptides with potential anti-cancer activity by analyzing key biochemical properties such as hydrophobicity, net charge, stability, half-life, and Boman index. These properties help determine a peptide's ability to interact with cancer cell membranes, stability in biological environments, and target specificity. Using correlation heat maps and PCA analysis, our team identified 28 bacterial peptides, 18 probiotic bacterial peptides, 6 fungal peptides, and 4 metagenomic peptides. My specific focus was on peptides from the soil bacterium Streptomyces parvus, contributing to the overall findings of potential anti-cancer candidates. [Graduation Ceremony](https://www.youtube.com/live/Bzw7sYRSYVg?si=28OAN3kkAOeAFobr)                                                                                 
 **Undergraduate Research Student, Saveetha School of Engineering, Chennai, India**                                                              
 *JAN' 23 - MAR' 24*
 

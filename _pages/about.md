@@ -11,7 +11,7 @@ redirect_from:
 
 🧬 My passion lies in combining biology with machine learning to solve real-world healthcare problems. I work at the intersection of computational drug discovery, AI-powered diagnostics, and molecular modeling, with a focus on diseases such as tuberculosis, leukemia, and schizophrenia.
 
-🧑🏽‍🔬 I’m currently interning at National Dong Hwa University, Taiwan, where I analyze MALDI-TOF mass spectrometry data to develop ML models for TB classification. My work also extends to QSAR modeling, systems biology, and predictive analytics in biomedical research.
+🧑🏽‍🔬 I'm an upcoming research intern at KEK, Japan and I’ve recently interned at National Dong Hwa University, Taiwan, where I've analyzed MALDI-TOF mass spectrometry data to develop ML models for TB classification. My work also extends to QSAR modeling, systems biology, and predictive analytics in biomedical research.
 
 📚 I’ve contributed to multiple international research projects, filed patents, published peer-reviewed papers, and love mentoring students in STEM, especially when it comes to making complex science accessible.
 

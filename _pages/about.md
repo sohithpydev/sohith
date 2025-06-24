@@ -25,7 +25,7 @@ Research Experience
 
 **Upcoming Research Intern, KEK, Tsukuba, Japan**
 
-* JULY' 25 - AUG' 25*
+*JULY' 25 - AUG' 25*
 
 Will be working in Structural Biology Research Center, Institute of Materials Structure Science, High Energy Accelerator Research Organization (KEK) under [Prof. Senda](https://www2.kek.jp/imss/sbrc/eng/about/labhead.html)
 

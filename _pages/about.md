@@ -24,10 +24,10 @@ Let’s connect and collaborate if you’re into impactful science, global resea
   <!-- Images floated left -->
   <div style="float: left; margin-right: 20px; display: flex; gap: 10px;">
     <div>
-      <img src="/sohith/images/kek_1.jpg" alt="Research" style="width: 150px; height: auto; display: block;">
+      <img src="/sohith/images/kek_1.jpg" alt="Research" style="width: 160px; height: auto; display: block;">
     </div>
     <div style="display: flex; flex-direction: column; gap: 10px;">
-      <img src="/sohith/images/kek_2.jpg" alt="Research" style="width: 187px; height: auto;">
+      <img src="/sohith/images/kek_2.jpg" alt="Research" style="width: 195px; height: auto;">
       <img src="/sohith/images/kek_4.jpg" alt="Research" style="width: 200px; height: auto;">
     </div>
   </div>
@@ -55,8 +55,8 @@ Let’s connect and collaborate if you’re into impactful science, global resea
 
 **Previous Experience**
 
-![Research](/sohith/images/ndhu_1.JPG){: .align-right width="150px"}
-![Research](/sohith/images/ndhu_2.jpeg){: .align-right width="140px"}
+![Research](/sohith/images/ndhu_1.JPG){: .align-right width="140px"}
+![Research](/sohith/images/ndhu_2.jpeg){: .align-right width="150px"}
 **Research Intern, National Dong Hwa University, Hualien, Taiwan (On-site)**                                                                              
 *JAN' 25 - JUN' 25*
 

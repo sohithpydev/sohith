@@ -37,11 +37,10 @@ Let’s connect and collaborate if you’re into impactful science, global resea
     <strong>Research Intern, KEK, Tsukuba, Japan (On-site)</strong><br>
     <em>JULY' 25 - AUG' 25</em>
 
-    <p style="margin-top: 0;">
+    <p>
       Working at Structural Biology Research Center (SBRC), Institute of Materials Structure Science, High Energy Accelerator Research Organization (KEK), under <a href="https://www2.kek.jp/imss/sbrc/eng/about/labhead.html" target="_blank" rel="noopener noreferrer">Toshiya Senda-sensei</a> & Miki Senda-sensei. Actively engaged in structural biology research focusing on X-ray crystallography refinement and Cryo-Electron Microscopy (Cryo-EM) analysis of protein structures. Assisting in the creation of beginner-friendly English manuals and technical documentation to support future international interns and early-stage researchers at KEK, covering common workflows and troubleshooting in macromolecular crystallography.
     </p>
 
-    <p>More text here will naturally wrap under the images once the height of images ends, so you can keep adding paragraphs or details without the text being forced to the right only.</p>
   </div>
 
   <div style="clear: left;"></div> <!-- Clears the float so next content won't wrap -->

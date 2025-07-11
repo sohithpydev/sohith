@@ -23,26 +23,21 @@ Research Experience
 ====
 **Current Experience**
 
-<table>
-  <tr>
-    <td rowspan="2">
-      <img src="/sohith/images/kek_1.jpg" width="200px" alt="Research">
-    </td>
-    <td>
-      <img src="/sohith/images/kek_2.jpg" width="200px" alt="Research">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="/sohith/images/kek_4.jpg" width="200px" alt="Research">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="/sohith/images/kek_1.jpg" width="200px" alt="Research">
+</p>
+
+<p align="center">
+  <img src="/sohith/images/kek_2.jpg" width="200px" alt="Research">
+</p>
+
+<p align="center">
+  <img src="/sohith/images/kek_3.jpg" width="200px" alt="Research">
+</p>
 **Research Intern, KEK, Tsukuba, Japan (On-site)**                                                                                             
 *JULY' 25 - AUG' 25*
 
-Working at Structural Biology Research Center (SBRC),  Institute of Materials Structure Science, High Energy Accelerator Research Organization (KEK), under [Toshiya Senda-sensei](https://www2.kek.jp/imss/sbrc/eng/about/labhead.html) & Miki Senda-sensei. Actively engaged in structural biology research focusing on X-ray crystallography refinement and Cryo-Electron Microscopy (Cryo-EM) analysis of protein structures. Assisting in the creation of beginner-friendly English manuals and technical documentation to support future international interns and early-stage researchers at KEK, covering common workflows and troubleshooting in macromolecular crystallography.
-<p align="center">
+Working at Structural Biology Research Center (SBRC),  Institute of Materials Structure Science, High Energy Accelerator Research Organization (KEK), under [Toshiya Senda-sensei](https://www2.kek.jp/imss/sbrc/eng/about/labhead.html) & Miki Senda-sensei. Actively engaged in structural biology research focusing on X-ray crystallography refinement and Cryo-Electron Microscopy (Cryo-EM) analysis of protein structures. Assisting in the creation of beginner-friendly English manuals and technical documentation to support future international interns and early-stage researchers at KEK, covering common workflows and troubleshooting in macromolecular crystallography.                 <p align="center">
   <img src="/sohith/images/kek_3.jpg" width="350px" alt="Research"><br>
   <em>Lab members of SBRC group during our dinner pizza party 🍕🎉</em>
 </p>
@@ -56,7 +51,8 @@ Working at Structural Biology Research Center (SBRC),  Institute of Materials St
 
 Operating MALDI-TOF mass spectrometer at [Biophysics Mass Spectrometry Lab, NDHU](http://faculty.ndhu.edu.tw/~PENGW/contact/) for TB and NTM sample analysis under the supervision of [Dr. Wing Peng-Ping](https://www.researchgate.net/profile/Wen-Ping-Peng/research) and developing ML models for tuberculosis classification using acquired spectral data and performing statistical analysis and feature selection to identify significant m/z peaks, coupled with spectral data visualization for enhanced interpretability.
 <p align="center">
-  <img src="/sohith/images/ndhu_3.jpg" width="350px" alt="Research">
+  <img src="/sohith/images/ndhu_3.jpg" width="350px" alt="Research"><br>
+  <em>BMS lab members at Liyu Lake after a trek 🌿</em>
 </p>
 
 ![Research](/sohith/images/lab_3.png){: .align-right width="200px"}

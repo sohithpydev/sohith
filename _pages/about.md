@@ -26,23 +26,25 @@ Research Experience
 <div style="display: flex; gap: 20px; align-items: flex-start;">
   <img src="/sohith/images/kek_1.jpg" alt="Research" width="200px" style="float: left; margin-right: 15px;">
 
-  <div style="flex: 1;">
-    <strong>Research Intern, KEK, Tsukuba, Japan (On-site)</strong><br>
-    <em>JULY' 25 - AUG' 25</em>
+  <div style="display: flex; gap: 20px; width: 100%;">
+    <div style="flex: 1;">
+      <strong>Research Intern, KEK, Tsukuba, Japan (On-site)</strong><br>
+      <em>JULY' 25 - AUG' 25</em>
 
-    <p>
-    Working at Structural Biology Research Center (SBRC), Institute of Materials Structure Science, High Energy Accelerator Research Organization (KEK), under <a href="https://www2.kek.jp/imss/sbrc/eng/about/labhead.html" target="_blank" rel="noopener noreferrer">Toshiya Senda-sensei</a> & Miki Senda-sensei. Actively engaged in structural biology research focusing on X-ray crystallography refinement and Cryo-Electron Microscopy (Cryo-EM) analysis of protein structures. Assisting in the creation of beginner-friendly English manuals and technical documentation to support future international interns and early-stage researchers at KEK, covering common workflows and troubleshooting in macromolecular crystallography.
-    </p>
-  </div>
+      <p>
+      Working at Structural Biology Research Center (SBRC), Institute of Materials Structure Science, High Energy Accelerator Research Organization (KEK), under <a href="https://www2.kek.jp/imss/sbrc/eng/about/labhead.html" target="_blank" rel="noopener noreferrer">Toshiya Senda-sensei</a> & Miki Senda-sensei. Actively engaged in structural biology research focusing on X-ray crystallography refinement and Cryo-Electron Microscopy (Cryo-EM) analysis of protein structures. Assisting in the creation of beginner-friendly English manuals and technical documentation to support future international interns and early-stage researchers at KEK, covering common workflows and troubleshooting in macromolecular crystallography.
+      </p>
+    </div>
 
-  <div style="display: flex; flex-direction: column; gap: 10px;">
-    <img src="/sohith/images/kek_2.jpg" alt="Research" width="200px" />
-    <img src="/sohith/images/kek_4.jpg" alt="Research" width="200px" />
+    <div style="display: flex; flex-direction: column; gap: 10px;">
+      <img src="/sohith/images/kek_2.jpg" alt="Research" width="200px" />
+      <img src="/sohith/images/kek_4.jpg" alt="Research" width="200px" />
+    </div>
   </div>
 </div>
 
 <p align="center" style="margin-top: 20px;">
-  <img src="/sohith/images/kek_3.jpg" width="350px" alt="Research"><br>
+  <img src="/sohith/images/kek_3.HEIC" width="350px" alt="Research"><br>
   <em>Lab members of SBRC group during our dinner pizza party 🍕🎉</em>
 </p>
 

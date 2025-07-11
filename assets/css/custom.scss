@@ -1,0 +1,28 @@
+---
+# Front matter to process with Jekyll
+---
+
+@import "minima"; // Or your theme's main SCSS file
+
+// Full-width overrides
+.container, 
+.wrapper,
+.page-content,
+.page {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+}
+
+// Header/footer adjustments
+.site-header, 
+.site-footer {
+  max-width: 100% !important;
+}
+
+// Content area
+.main-content {
+  max-width: 100% !important;
+  padding: 0 20px !important;
+}

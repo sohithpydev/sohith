@@ -18,48 +18,41 @@ redirect_from:
 🌏 Outside the lab, I’m a travel and food enthusiast who loves discovering new places and flavors during my internships abroad. Whether it’s finding a quiet café to sketch ideas or planning my next research sprint, I’m always exploring the world around me. I hope to continue this balance of adventure and academic growth throughout my master’s and PhD journey.
 
 Let’s connect and collaborate if you’re into impactful science, global research, or great coffee ☕️!
-# Research Experience
 
----
+Research Experience
+====
+**Current Experience**
 
-## 🧬 Current Experience: KEK, Japan (On-site)
+<div style="display: flex; align-items: flex-start; gap: 10px;">
+  <img src="/sohith/images/kek_1.jpg" alt="Research" width="200px" style="margin-right: 10px;">
 
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+    <img src="/sohith/images/kek_2.jpg" alt="Research" width="250px">
+    <img src="/sohith/images/kek_4.jpg" alt="Research" width="250px">
+  </div>
+</div>
+
+**Research Intern, KEK, Tsukuba, Japan (On-site)**                                                                                             
+*JULY' 25 - AUG' 25*
+
+Working at Structural Biology Research Center (SBRC), Institute of Materials Structure Science, High Energy Accelerator Research Organization (KEK), under [Toshiya Senda-sensei](https://www2.kek.jp/imss/sbrc/eng/about/labhead.html) & Miki Senda-sensei. Actively engaged in structural biology research focusing on X-ray crystallography refinement and Cryo-Electron Microscopy (Cryo-EM) analysis of protein structures. Assisting in the creation of beginner-friendly English manuals and technical documentation to support future international interns and early-stage researchers at KEK, covering common workflows and troubleshooting in macromolecular crystallography.
 <p align="center">
-  <img src="/sohith/images/kek_1.jpg" width="80%" alt="Crystallography station">
+  <img src="/sohith/images/kek_3.jpg" width="350px" alt="Research"><br>
+  <em>Lab members of SBRC group during our dinner pizza party 🍕🎉</em>
 </p>
 
-Working at **SBRC, KEK** under [Toshiya Senda-sensei](https://www2.kek.jp/imss/sbrc/eng/about/labhead.html) & Miki Senda-sensei.  
-I’m diving into structural biology research—X-ray crystallography refinement, Cryo-EM image analysis, and building beginner-friendly manuals to support future interns with workflows and debugging tips. It’s hands-on and *hectic*, but hella rewarding.
+**Previous Experience**
 
+![Research](/sohith/images/ndhu_1.JPG){: .align-right width="150px"}
+![Research](/sohith/images/ndhu_2.jpeg){: .align-right width="150px"}
+**Research Intern, National Dong Hwa University, Hualien, Taiwan (On-site)**                                                                              
+*JAN' 25 - JUN' 25*
+
+Operating MALDI-TOF mass spectrometer at [Biophysics Mass Spectrometry Lab, NDHU](http://faculty.ndhu.edu.tw/~PENGW/contact/) for TB and NTM sample analysis under the supervision of [Dr. Wing Peng-Ping](https://www.researchgate.net/profile/Wen-Ping-Peng/research) and developing ML models for tuberculosis classification using acquired spectral data and performing statistical analysis and feature selection to identify significant m/z peaks, coupled with spectral data visualization for enhanced interpretability.
 <p align="center">
-  <img src="/sohith/images/kek_2.jpg" width="45%" style="margin: 10px;">
-  <img src="/sohith/images/kek_4.jpg" width="45%" style="margin: 10px;">
-</p>
-
-<p align="center"><em>Some casual snapshots from the lab at KEK 🧪</em></p>
-
-<p align="center">
-  <img src="/sohith/images/kek_3.jpg" width="60%" alt="Dinner"><br>
-  <em>SBRC group dinner pizza party 🍕🎉</em>
-</p>
-
----
-
-## 🧪 Previous Experience: NDHU, Taiwan (On-site)
-
-<p align="center">
-  <img src="/sohith/images/ndhu_1.JPG" width="45%" style="margin: 10px;">
-  <img src="/sohith/images/ndhu_2.jpeg" width="45%" style="margin: 10px;">
-</p>
-
-Worked at the **Biophysics Mass Spectrometry Lab, NDHU** with [Dr. Wing Peng-Ping](https://www.researchgate.net/profile/Wen-Ping-Peng/research).  
-I focused on MALDI-TOF spectral analysis of TB & NTM samples, built ML models for tuberculosis classification, and visualized spectral trends to identify key m/z features.  
-The research here felt like coding meets chemistry meets chaos—and I loved it.
-
-<p align="center">
-  <img src="/sohith/images/ndhu_3.jpg" width="60%" alt="Liyu Lake"><br>
-  <em>BMS lab fam at Liyu Lake after trekking 🌿</em>
-</p>
+  <img src="/sohith/images/ndhu_3.jpg" width="350px" alt="Research"><br>
+  <em>Lab members of BMS group at Liyu Lake after a trek 🌿</em>
+</p> 
 
 ![Research](/sohith/images/lab_3.png){: .align-right width="200px"}
 ![Research](/sohith/images/lab_2.png){: .align-right width="200px"}

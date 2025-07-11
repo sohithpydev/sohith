@@ -11,7 +11,7 @@ redirect_from:
 
 🧬 My passion lies in combining biology with machine learning to solve real-world healthcare problems. I work at the intersection of computational drug discovery, AI-powered diagnostics, and molecular modeling, with a focus on diseases such as tuberculosis, leukemia, and schizophrenia.
 
-🧑🏽‍🔬 I'm an upcoming research intern at KEK, Japan and I’ve recently interned at National Dong Hwa University, Taiwan, where I've analyzed MALDI-TOF mass spectrometry data to develop ML models for TB classification. My work also extends to QSAR modeling, systems biology, and predictive analytics in biomedical research.
+🧑🏽‍🔬 I'm currently a research intern at KEK, Japan and I’ve recently interned at National Dong Hwa University, Taiwan, where I've analyzed MALDI-TOF mass spectrometry data to develop ML models for TB classification. My work also extends to QSAR modeling, systems biology, and predictive analytics in biomedical research.
 
 📚 I’ve contributed to multiple international research projects, filed patents, published peer-reviewed papers, and love mentoring students in STEM, especially when it comes to making complex science accessible.
 
@@ -23,14 +23,28 @@ Research Experience
 ====
 **Current Experience**
 
-![Research](/sohith/images/kek_1.jpg){: .align-left width="200px"}
-![Research](/sohith/images/kek_2.jpg){: .align-left width="200px"}
+<table>
+  <tr>
+    <td rowspan="2">
+      <img src="/sohith/images/kek_1.jpg" width="200px" alt="Research">
+    </td>
+    <td>
+      <img src="/sohith/images/kek_2.jpg" width="200px" alt="Research">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/sohith/images/kek_4.jpg" width="200px" alt="Research">
+    </td>
+  </tr>
+</table>
 **Research Intern, KEK, Tsukuba, Japan (On-site)**                                                                                             
 *JULY' 25 - AUG' 25*
 
 Working at Structural Biology Research Center (SBRC),  Institute of Materials Structure Science, High Energy Accelerator Research Organization (KEK), under [Toshiya Senda-sensei](https://www2.kek.jp/imss/sbrc/eng/about/labhead.html) & Miki Senda-sensei. Actively engaged in structural biology research focusing on X-ray crystallography refinement and Cryo-Electron Microscopy (Cryo-EM) analysis of protein structures. Assisting in the creation of beginner-friendly English manuals and technical documentation to support future international interns and early-stage researchers at KEK, covering common workflows and troubleshooting in macromolecular crystallography.
 <p align="center">
-  <img src="/sohith/images/kek_3.jpg" width="350px" alt="Research">
+  <img src="/sohith/images/kek_3.jpg" width="350px" alt="Research"><br>
+  <em>Lab members of SBRC group during our dinner pizza party 🍕🎉</em>
 </p>
 
 **Previous Experience**

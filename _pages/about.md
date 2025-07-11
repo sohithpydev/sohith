@@ -20,45 +20,45 @@ redirect_from:
 Let’s connect and collaborate if you’re into impactful science, global research, or great coffee ☕️!
 # Research Experience
 
-## **Current Experience**
+---
 
-<div style="display: flex; gap: 10px; align-items: flex-start;">
-  <img src="/sohith/images/kek_1.jpg" height="180px" alt="Research">
-  <img src="/sohith/images/kek_2.jpg" height="180px" alt="Research">
-  <img src="/sohith/images/kek_4.jpg" height="180px" alt="Research">
-</div>
-
-**Research Intern, KEK, Tsukuba, Japan (On-site)**  
-*JULY' 25 - AUG' 25*
-
-Working at Structural Biology Research Center (SBRC), Institute of Materials Structure Science, High Energy Accelerator Research Organization (KEK), under [Toshiya Senda-sensei](https://www2.kek.jp/imss/sbrc/eng/about/labhead.html) & Miki Senda-sensei.  
-Actively engaged in structural biology research focusing on X-ray crystallography refinement and Cryo-Electron Microscopy (Cryo-EM) analysis of protein structures.  
-Also assisting in the creation of beginner-friendly English manuals and technical documentation to support future international interns and early-stage researchers at KEK, covering common workflows and troubleshooting in macromolecular crystallography.
+## 🧬 Current Experience: KEK, Japan (On-site)
 
 <p align="center">
-  <img src="/sohith/images/kek_3.jpg" width="350px" alt="Research"><br>
-  <em>SBRC group members during our pizza dinner party 🍕🎉</em>
+  <img src="/sohith/images/kek_1.jpg" width="80%" alt="Crystallography station">
+</p>
+
+Working at **SBRC, KEK** under [Toshiya Senda-sensei](https://www2.kek.jp/imss/sbrc/eng/about/labhead.html) & Miki Senda-sensei.  
+I’m diving into structural biology research—X-ray crystallography refinement, Cryo-EM image analysis, and building beginner-friendly manuals to support future interns with workflows and debugging tips. It’s hands-on and *hectic*, but hella rewarding.
+
+<p align="center">
+  <img src="/sohith/images/kek_2.jpg" width="45%" style="margin: 10px;">
+  <img src="/sohith/images/kek_4.jpg" width="45%" style="margin: 10px;">
+</p>
+
+<p align="center"><em>Some casual snapshots from the lab at KEK 🧪</em></p>
+
+<p align="center">
+  <img src="/sohith/images/kek_3.jpg" width="60%" alt="Dinner"><br>
+  <em>SBRC group dinner pizza party 🍕🎉</em>
 </p>
 
 ---
 
-## **Previous Experience**
-
-<div style="display: flex; gap: 10px; justify-content: flex-end;">
-  <img src="/sohith/images/ndhu_1.JPG" height="160px" alt="NDHU">
-  <img src="/sohith/images/ndhu_2.jpeg" height="160px" alt="NDHU">
-</div>
-
-**Research Intern, National Dong Hwa University, Hualien, Taiwan (On-site)**  
-*JAN' 25 - JUN' 25*
-
-Operated MALDI-TOF mass spectrometer at [Biophysics Mass Spectrometry Lab, NDHU](http://faculty.ndhu.edu.tw/~PENGW/contact/) for TB and NTM sample analysis under [Dr. Wing Peng-Ping](https://www.researchgate.net/profile/Wen-Ping-Peng/research).  
-Developed ML models for tuberculosis classification using acquired spectral data, and performed statistical analysis and feature selection to identify significant m/z peaks.  
-Also created spectral data visualizations for enhanced interpretability.
+## 🧪 Previous Experience: NDHU, Taiwan (On-site)
 
 <p align="center">
-  <img src="/sohith/images/ndhu_3.jpg" width="350px" alt="Research"><br>
-  <em>BMS group at Liyu Lake after a trek 🌿</em>
+  <img src="/sohith/images/ndhu_1.JPG" width="45%" style="margin: 10px;">
+  <img src="/sohith/images/ndhu_2.jpeg" width="45%" style="margin: 10px;">
+</p>
+
+Worked at the **Biophysics Mass Spectrometry Lab, NDHU** with [Dr. Wing Peng-Ping](https://www.researchgate.net/profile/Wen-Ping-Peng/research).  
+I focused on MALDI-TOF spectral analysis of TB & NTM samples, built ML models for tuberculosis classification, and visualized spectral trends to identify key m/z features.  
+The research here felt like coding meets chemistry meets chaos—and I loved it.
+
+<p align="center">
+  <img src="/sohith/images/ndhu_3.jpg" width="60%" alt="Liyu Lake"><br>
+  <em>BMS lab fam at Liyu Lake after trekking 🌿</em>
 </p>
 
 ![Research](/sohith/images/lab_3.png){: .align-right width="200px"}

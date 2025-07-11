@@ -27,7 +27,7 @@ Let’s connect and collaborate if you’re into impactful science, global resea
       <img src="/sohith/images/kek_1.jpg" alt="Research" style="width: 150px; height: auto; display: block;">
     </div>
     <div style="display: flex; flex-direction: column; gap: 10px;">
-      <img src="/sohith/images/kek_2.jpg" alt="Research" style="width: 180px; height: auto;">
+      <img src="/sohith/images/kek_2.jpg" alt="Research" style="width: 187px; height: auto;">
       <img src="/sohith/images/kek_4.jpg" alt="Research" style="width: 200px; height: auto;">
     </div>
   </div>

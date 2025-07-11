@@ -23,10 +23,16 @@ Research Experience
 ====
 **Current Experience**
 
-**Upcoming Research Intern, KEK, Tsukuba, Japan (On-site)**                                                                                             
+![Research](/sohith/images/kek_1.PNG){: .align-left width="200px"}
+![Research](/sohith/images/kek_2.jpg){: .align-left width="200px"}
+**Research Intern, KEK, Tsukuba, Japan (On-site)**                                                                                             
 *JULY' 25 - AUG' 25*
 
-Will be working in Structural Biology Research Center, Institute of Materials Structure Science, High Energy Accelerator Research Organization (KEK) under [Prof. Senda](https://www2.kek.jp/imss/sbrc/eng/about/labhead.html)
+Working at Structural Biology Research Center (SBRC),  Institute of Materials Structure Science, High Energy Accelerator Research Organization (KEK), under [Toshiya Senda-sensei](https://www2.kek.jp/imss/sbrc/eng/about/labhead.html) & Miki Senda-sensei. Actively engaged in structural biology research focusing on X-ray crystallography refinement and Cryo-Electron Microscopy (Cryo-EM) analysis of protein structures. Assisting in the creation of beginner-friendly English manuals and technical documentation to support future international interns and early-stage researchers at KEK, covering common workflows and troubleshooting in macromolecular crystallography.
+
+<p align="center">
+  <img src="/sohith/images/kek_3.JPG" width="200px" alt="Research">
+</p>
 
 **Previous Experience**
 

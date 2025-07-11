@@ -43,6 +43,9 @@ Working at Structural Biology Research Center (SBRC),  Institute of Materials St
 
 Operating MALDI-TOF mass spectrometer at [Biophysics Mass Spectrometry Lab, NDHU](http://faculty.ndhu.edu.tw/~PENGW/contact/) for TB and NTM sample analysis under the supervision of [Dr. Wing Peng-Ping](https://www.researchgate.net/profile/Wen-Ping-Peng/research) and developing ML models for tuberculosis classification using acquired spectral data and performing statistical analysis and feature selection to identify significant m/z peaks, coupled with spectral data visualization for enhanced interpretability.
 
+<p align="center">
+  <img src="/sohith/images/ndhu_3.JPG" width="200px" alt="Research">
+</p>
 
 ![Research](/sohith/images/lab_3.png){: .align-right width="200px"}
 ![Research](/sohith/images/lab_2.png){: .align-right width="200px"}

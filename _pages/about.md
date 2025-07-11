@@ -48,7 +48,7 @@ Research Experience
 </div>
 
 <p align="center" style="margin-top: 20px;">
-  <img src="/sohith/images/kek_3.HEIC" style="width: 350px; max-width: 100%;" alt="Research"><br>
+  <img src="/sohith/images/kek_3.jpg" style="width: 350px; max-width: 100%;" alt="Research"><br>
   <em>Lab members of SBRC group during our dinner pizza party 🍕🎉</em>
 </p>
 

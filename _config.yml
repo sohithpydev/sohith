@@ -310,14 +310,6 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
-# Add these to your existing config.yml
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: "default"
-      full_width: true  # Custom variable we'll use in layouts
   
 # HTML Compression
 # - http://jch.penibelst.de/

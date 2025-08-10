@@ -29,7 +29,8 @@ Research Experience
 ====
 **Current Experience**
 
-**Undergraduate Student Researcher, University of Colorado Colorado Springs (UCCS), Colorado Springs, United States of America (Remote)**                                                                                                                                            *DEC' 24 - Present*
+**Undergraduate Student Researcher, University of Colorado Colorado Springs (UCCS), Colorado Springs, United States of America (Remote)**                                                                                                                                            
+*DEC' 24 - Present*
 
 Working in collaboration with the University of Colorado and Ioncure to develop and apply AI-driven methods for evaluating neurodegeneration awareness. Leveraging Natural Language Processing (NLP), Computer Vision, Machine Learning, and advanced data science techniques to analyze diverse data sources.
 

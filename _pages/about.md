@@ -82,7 +82,7 @@ Analyzed Solanum nigrum extract for antibacterial compounds using GC-MS data, su
 **Research Intern, National Dong Hwa University, Hualien, Taiwan (On-site)**                                                                              
 *JAN' 25 - JUN' 25*
 
-Operating MALDI-TOF mass spectrometer at [Biophysics Mass Spectrometry Lab, NDHU](http://faculty.ndhu.edu.tw/~PENGW/contact/) for TB and NTM sample analysis under the supervision of [Dr. Wing Peng-Ping](https://www.researchgate.net/profile/Wen-Ping-Peng/research) and developing ML models for tuberculosis classification using acquired spectral data and performing statistical analysis and feature selection to identify significant m/z peaks, coupled with spectral data visualization for enhanced interpretability.
+Operated MALDI-TOF mass spectrometer at [Biophysics Mass Spectrometry Lab, NDHU](http://faculty.ndhu.edu.tw/~PENGW/contact/) for TB and NTM sample analysis under the supervision of [Dr. Wing Peng-Ping](https://www.researchgate.net/profile/Wen-Ping-Peng/research) and developed ML models for tuberculosis classification using acquired spectral data and performing statistical analysis and feature selection to identify significant m/z peaks, coupled with spectral data visualization for enhanced interpretability.
 <p align="center">
   <img src="/sohith/images/ndhu_3.jpg" width="350px" alt="Research"><br>
   <em>Lab members of BMS group at Liyu Lake after a trek 🌿</em>

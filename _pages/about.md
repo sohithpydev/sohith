@@ -7,21 +7,42 @@ redirect_from:
   - /about.html
 ---
 
-🧑🏽‍💻 I’m a final year undergraduate in Bioinformatics at Saveetha School of Engineering, SIMATS University, Chennai.
+🧑🏽‍💻 I’m a final-year undergraduate in Bioinformatics at Saveetha School of Engineering, SIMATS University, Chennai — passionate about merging neuroscience, structural biology, and AI to tackle complex healthcare challenges.
 
-🧬 My passion lies in combining biology with machine learning to solve real-world healthcare problems. I work at the intersection of computational drug discovery, AI-powered diagnostics, and molecular modeling, with a focus on diseases such as tuberculosis, leukemia, and schizophrenia.
+🧠 Currently, I’m an Undergraduate Student Researcher at the University of Colorado Colorado Springs (with Ioncure), where I’m developing AI-driven methods to evaluate neurodegeneration awareness using NLP, Computer Vision, and Machine Learning. This complements my broader work in computational drug discovery, AI-powered diagnostics, and molecular modeling.
 
-🧑🏽‍🔬 I'm currently a research intern at KEK, Japan and I’ve recently interned at National Dong Hwa University, Taiwan, where I've analyzed MALDI-TOF mass spectrometry data to develop ML models for TB classification. My work also extends to QSAR modeling, systems biology, and predictive analytics in biomedical research.
+🔬 Over the past year, I’ve had the privilege of interning at leading research institutes across Asia:
 
-📚 I’ve contributed to multiple international research projects, filed patents, published peer-reviewed papers, and love mentoring students in STEM, especially when it comes to making complex science accessible.
+- Chang Gung University, Taiwan – Working on molecular docking studies for drug-target interaction analysis.
 
-🌏 Outside the lab, I’m a travel and food enthusiast who loves discovering new places and flavors during my internships abroad. Whether it’s finding a quiet café to sketch ideas or planning my next research sprint, I’m always exploring the world around me. I hope to continue this balance of adventure and academic growth throughout my master’s and PhD journey.
+- KEK, Japan – At the Structural Biology Research Center (SBRC) under Miki Senda-sensei & Toshio Moriya-sensei, focusing on X-ray crystallography refinement and Cryo-EM analysis of protein–ligand complexes, and creating English technical manuals for future international interns.
 
-Let’s connect and collaborate if you’re into impactful science, global research, or great coffee ☕️!
+- National Dong Hwa University, Taiwan – As a TEEP@Asia+ Scholar in the Biophysical Mass Spectrometry Lab, I developed a machine learning pipeline using MALDI-TOF MS data for TB/NTM classification, achieving 0.98 AUROC and 0.94 F1-score with significant diagnostic improvements.
+
+📚 I’ve contributed to international collaborations, filed patents, published peer-reviewed papers, and actively mentor students in STEM, making complex science more accessible. My outreach extends through books, podcasts, and blogs ([link here]), aiming to inspire and inform the next generation of scientists.
+
+🌏 Beyond the lab, I’m a travel and food enthusiast — from quiet cafés in Taiwan to bustling ramen joints in Tokyo — always looking for places that spark new research ideas. I plan to carry this blend of scientific curiosity and global exploration into my Master’s and PhD journey.
+
+☕ If you’re into neuroscience, AI in healthcare, or just a great coffee-fueled research chat, let’s connect.
 
 Research Experience
 ====
 **Current Experience**
+
+**Undergraduate Student Researcher, University of Colorado Colorado Springs (UCCS), Colorado Springs, United States of America (Remote)**
+
+*DEC' 24 - Present*
+
+Working in collaboration with the University of Colorado and Ioncure to develop and apply AI-driven methods for evaluating neurodegeneration awareness. Leveraging Natural Language Processing (NLP), Computer Vision, Machine Learning, and advanced data science techniques to analyze diverse data sources.
+
+![Research](/sohith/images/lab_3.png){: .align-right width="200px"}
+![Research](/sohith/images/lab_2.png){: .align-right width="200px"}
+**Research Assistant, Manipal University College, Melaka, Malaysia (Hybrid)**                                                                   
+*MAY' 24 - Present*
+
+Analyzed Solanum nigrum extract for antibacterial compounds using GC-MS data, successfully identifying 50 bioactive components under the guidance of [Dr. Sugapriya](https://scholar.google.co.in/citations?hl=en&user=dieHes4AAAAJ). This research has laid the groundwork for novel antimicrobial investigations using plant-based compounds. Conducted in silico docking studies on M. tuberculosis MurE ligase using AutoDock Vina to identify potential anti-TB agents from S. nigrum extract. Currently, I am assisting with writing research papers, contributing to book chapters, and supporting various ongoing projects in the field of antimicrobial research.
+
+**Previous Experience**
 
 <div style="margin-bottom: 20px;">
 
@@ -42,7 +63,7 @@ Research Experience
     <em style="display: block; margin-bottom: 1em;">JULY' 25 - AUG' 25</em>
 
     <p>
-      Working at Structural Biology Research Center (SBRC), Institute of Materials Structure Science, High Energy Accelerator Research Organization (KEK), under <a href="https://www2.kek.jp/imss/sbrc/eng/about/labhead.html" target="_blank" rel="noopener noreferrer">Toshiya Senda-sensei</a> & Miki Senda-sensei. Actively engaged in structural biology research focusing on X-ray crystallography refinement and Cryo-Electron Microscopy (Cryo-EM) analysis of protein structures. Assisting in the creation of beginner-friendly English manuals and technical documentation to support future international interns and early-stage researchers at KEK, covering common workflows and troubleshooting in macromolecular crystallography.
+      Worked at Structural Biology Research Center (SBRC), Institute of Materials Structure Science, High Energy Accelerator Research Organization (KEK), under <a href="https://www2.kek.jp/imss/sbrc/eng/about/labhead.html" target="_blank" rel="noopener noreferrer">Toshio Moriya-sensei</a> & Miki Senda-sensei. Actively engaged in structural biology research focusing on X-ray crystallography refinement and Cryo-Electron Microscopy (Cryo-EM) analysis of protein structures. Assisted in the creation of beginner-friendly English manuals and technical documentation to support future international interns and early-stage researchers at KEK, covering common workflows and troubleshooting in macromolecular crystallography.
     </p>
 
   </div>
@@ -57,8 +78,6 @@ Research Experience
   <em>Lab members of SBRC group during our dinner pizza party 🍕🎉</em>
 </p>
 
-**Previous Experience**
-
 ![Research](/sohith/images/ndhu_1.JPG){: .align-right width="140px"}
 ![Research](/sohith/images/ndhu_2.jpeg){: .align-right width="150px"}
 **Research Intern, National Dong Hwa University, Hualien, Taiwan (On-site)**                                                                              
@@ -69,13 +88,6 @@ Operating MALDI-TOF mass spectrometer at [Biophysics Mass Spectrometry Lab, NDHU
   <img src="/sohith/images/ndhu_3.jpg" width="350px" alt="Research"><br>
   <em>Lab members of BMS group at Liyu Lake after a trek 🌿</em>
 </p> 
-
-![Research](/sohith/images/lab_3.png){: .align-right width="200px"}
-![Research](/sohith/images/lab_2.png){: .align-right width="200px"}
-**Research Assistant, Manipal University College, Melaka, Malaysia (Hybrid)**                                                                   
-*MAY' 24 - APR'24*
-
-Analyzed Solanum nigrum extract for antibacterial compounds using GC-MS data, successfully identifying 50 bioactive components under the guidance of [Dr. Sugapriya](https://scholar.google.co.in/citations?hl=en&user=dieHes4AAAAJ). This research has laid the groundwork for novel antimicrobial investigations using plant-based compounds. Conducted in silico docking studies on M. tuberculosis MurE ligase using AutoDock Vina to identify potential anti-TB agents from S. nigrum extract. Currently, I am assisting with writing research papers, contributing to book chapters, and supporting various ongoing projects in the field of antimicrobial research.
 
 ![Research](/sohith/images/jinr_1.jpg){: .align-right width="350px"}
 **Research Intern, Joint Institute for Nuclear Research, Moscow, Russia (Remote)**                                                                     

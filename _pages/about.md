@@ -7,23 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-🧑🏽‍💻 I’m a final-year undergraduate in Bioinformatics at Saveetha School of Engineering, SIMATS University, Chennai — passionate about merging neuroscience, structural biology, and AI to tackle complex healthcare challenges.
+I’m a final-year Bioinformatics undergrad at Saveetha School of Engineering, SIMATS University, Chennai, fueled by a passion for blending neuroscience, structural biology, and AI to solve real-world healthcare challenges.
 
-🧠 Currently, I’m an Undergraduate Student Researcher at the University of Colorado Colorado Springs (with Ioncure), where I’m developing AI-driven methods to evaluate neurodegeneration awareness using NLP, Computer Vision, and Machine Learning. This complements my broader work in computational drug discovery, AI-powered diagnostics, and molecular modeling.
+**What I’m Working On**
+Right now, I’m a student researcher at the University of Colorado Colorado Springs (with Ioncure), building AI tools using NLP, Computer Vision, and Machine Learning to raise awareness about neurodegeneration. I also dive into computational drug discovery, AI-driven diagnostics, and molecular modeling—pretty exciting stuff!
 
-🔬 Over the past year, I’ve had the privilege of interning at leading research institutes across Asia:
+**My Journey So Far**
+Over the past year, I’ve been lucky to work with some amazing teams across Asia:
+· *Chang Gung University, Taiwan:* Explored molecular docking to study drug-target interactions.
+· *KEK, Japan:* Worked on X-ray crystallography and Cryo-EM at the Structural Biology Research Center, and wrote English technical manuals for future interns.
+· *National Dong Hwa University, Taiwan:* As a TEEP@Asia+ Scholar, I built a machine learning pipeline for TB/NTM classification using mass spectrometry data, hitting a 0.98 AUROC and 0.94 F1-score.
 
-- Chang Gung University, Taiwan – Working on molecular docking studies for drug-target interaction analysis.
+I’ve also published few papers, filed patents, and mentored STEM students to make science more approachable. Through books, podcasts, and blogs, I love sharing knowledge and sparking curiosity.
 
-- KEK, Japan – At the Structural Biology Research Center (SBRC) under Miki Senda-sensei & Toshio Moriya-sensei, focusing on X-ray crystallography refinement and Cryo-EM analysis of protein–ligand complexes, and creating English technical manuals for future international interns.
+**Beyond the Lab**
+When I’m not geeking out over science, you’ll find me exploring new places—sipping coffee in cozy Taiwanese cafés or savoring ramen in Tokyo’s lively streets. These adventures often inspire my next research idea. I’m excited to bring this curiosity into my PhD journey.
 
-- National Dong Hwa University, Taiwan – As a TEEP@Asia+ Scholar in the Biophysical Mass Spectrometry Lab, I developed a machine learning pipeline using MALDI-TOF MS data for TB/NTM classification, achieving 0.98 AUROC and 0.94 F1-score with significant diagnostic improvements.
+**Let’s Connect!**
+If you’re into neuroscience, AI in healthcare, or just want to chat research over coffee, I’d love to hear from you. Let’s make science happen together!
 
-📚 I’ve contributed to international collaborations, filed patents, published peer-reviewed papers, and actively mentor students in STEM, making complex science more accessible. My outreach extends through books, podcasts, and blogs ([link here]), aiming to inspire and inform the next generation of scientists.
-
-🌏 Beyond the lab, I’m a travel and food enthusiast — from quiet cafés in Taiwan to bustling ramen joints in Tokyo — always looking for places that spark new research ideas. I plan to carry this blend of scientific curiosity and global exploration into my Master’s and PhD journey.
-
-☕ If you’re into neuroscience, AI in healthcare, or just a great coffee-fueled research chat, let’s connect.
 
 Research Experience
 ====

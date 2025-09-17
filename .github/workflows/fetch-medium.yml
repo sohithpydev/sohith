@@ -26,6 +26,7 @@ jobs:
       run: |
         mkdir -p _posts/medium
         python scripts/fetch_medium.py
+
     - name: Commit and push
       run: |
         git config --global user.name "github-actions[bot]"

@@ -20,7 +20,7 @@ This book explores how **AI can revolutionize clinical trials for neurodegenerat
 
 ---
 
-### 📘 *AI-Driven Early Detection of Neurodegenerative Disorders*  
+### 📘 *AI-Powered Brain-Computer Interfaces for Neurodegeneration Patients*
 <img src="/sohith/images/book_2.png" alt="AI-Driven Early Detection Cover" width="300" style="border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.1);" />
 
 Focused on **biomarkers, neuroimaging, wearables, and machine learning models**, this book presents a comprehensive view of how AI enables early detection of Alzheimer’s, Parkinson’s, ALS, and Huntington’s disease. It also addresses data quality, interpretability, and ethical considerations in predictive diagnostics.  
@@ -29,7 +29,7 @@ Focused on **biomarkers, neuroimaging, wearables, and machine learning models**,
 
 ---
 
-### 📘 *AI-Powered Brain-Computer Interfaces for Neurodegeneration Patients*  
+### 📘 *AI-Driven Early Detection of Neurodegenerative Disorders*  
 <img src="/sohith/images/book_3.png" alt="AI-Powered BCI Cover" width="300" style="border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.1);" />
 
 This book introduces the role of **AI in advancing brain-computer interfaces (BCIs)** to support communication, mobility, and independence in patients with ALS, Parkinson’s, and other neurodegenerative conditions. Topics include neural signal processing, adaptive learning, hardware innovations, and ethical frameworks for clinical adoption.  

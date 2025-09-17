@@ -16,7 +16,7 @@ I have authored three books at the intersection of **neuroscience, neurodegenera
 
 This book explores how **AI can revolutionize clinical trials for neurodegenerative diseases**, covering virtual patients, synthetic control arms, federated learning, and decentralized trial designs. It emphasizes both the promise and ethical challenges of AI-driven drug development.  
 
-👉 [Purchase / Access Book 1](https://books2read.com/u/4A6LVA)) 
+👉 [Purchase / Access Book](https://books2read.com/u/4A6LVA)
 
 ---
 
@@ -25,7 +25,7 @@ This book explores how **AI can revolutionize clinical trials for neurodegenerat
 
 Focused on **biomarkers, neuroimaging, wearables, and machine learning models**, this book presents a comprehensive view of how AI enables early detection of Alzheimer’s, Parkinson’s, ALS, and Huntington’s disease. It also addresses data quality, interpretability, and ethical considerations in predictive diagnostics.  
 
-👉 [Purchase / Access Book 2](https://books2read.com/u/3JMGPJ)  
+👉 [Purchase / Access Book](https://books2read.com/u/3JMGPJ)  
 
 ---
 
@@ -34,7 +34,7 @@ Focused on **biomarkers, neuroimaging, wearables, and machine learning models**,
 
 This book introduces the role of **AI in advancing brain-computer interfaces (BCIs)** to support communication, mobility, and independence in patients with ALS, Parkinson’s, and other neurodegenerative conditions. Topics include neural signal processing, adaptive learning, hardware innovations, and ethical frameworks for clinical adoption.  
 
-👉 [Purchase / Access Book 3](https://books2read.com/u/38wY5a)  
+👉 [Purchase / Access Book](https://books2read.com/u/38wY5a)  
 
 ---
 

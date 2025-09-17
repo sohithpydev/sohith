@@ -11,19 +11,15 @@ permalink: /youtube/
       <h3>{{ post.title }}</h3>
 
       <!-- Thumbnail -->
-      {% assign video_id = post.content | regex_find: 'youtube.com/watch\\?v=([A-Za-z0-9_-]+)' %}
-      {% if video_id %}
-        <a href="{{ post.content | regex_find: 'https?://www.youtube.com/watch\\?v=[A-Za-z0-9_-]+' }}" target="_blank">
-          <img src="https://img.youtube.com/vi/{{ video_id[1] }}/mqdefault.jpg" 
+      {% if post.video_id %}
+        <a href="https://www.youtube.com/watch?v={{ post.video_id }}" target="_blank">
+          <img src="https://img.youtube.com/vi/{{ post.video_id }}/mqdefault.jpg" 
                alt="{{ post.title }}" 
                style="width:320px; height:auto; margin-bottom: 0.5rem;">
         </a>
-      {% endif %}
 
-      <!-- Watch link -->
-      {% assign video_link = post.content | regex_find: 'https?://www.youtube.com/watch\\?v=[A-Za-z0-9_-]+' %}
-      {% if video_link %}
-        <p><a href="{{ video_link[0] }}" target="_blank">Watch on YouTube</a></p>
+        <!-- Watch link -->
+        <p><a href="https://www.youtube.com/watch?v={{ post.video_id }}" target="_blank">Watch on YouTube</a></p>
       {% endif %}
     </div>
   {% endif %}

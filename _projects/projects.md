@@ -17,8 +17,8 @@ Many of my machine learning projects targeting different biomedical problems wer
 **Description:** QSAR modeling + molecular docking to identify AβA4 inhibitors.  
 **Technologies:** Python, RDKit, PyRx, ML regression models  
 **Role:** Sole developer (end-to-end pipeline)  
-**Outcome:** Presented at Manipal University; potential lead compounds identified  
-**Link:** [GitHub / Repo / Demo](https://neuroic50.streamlit.app/)
+**Outcome:** Research presented at Manipal University; identified potential lead compounds, and developed NeuroIC50, an online platform for testing prospective AβA4 inhibitors.
+**Link:** [Access NeuroIC50](https://neuroic50.streamlit.app/)
 
 ---
 
@@ -54,7 +54,7 @@ Many of my machine learning projects targeting different biomedical problems wer
 **Technologies:** Python, RDKit, PaDEL, Random Forest Regressor, PyRx  
 **Role:** Sole developer  
 **Outcome:** Published as *Identification of Leukemia Enzyme Inhibitors by Molecular Modeling and Machine Learning Approaches* in *Current Chemical Biology* (2025).  
-**Link:** [Download Paper](https://www.researchgate.net/publication/394398256_Identification_of_Leukemia_Enzyme_Inhibitors_by_Molecular_Modeling_and_Machine_Learning_Approaches)
+**Link:** [Download Paper](https://www.researchgate.net/publication/394398256_Identification_of_Leukemia_Enzyme_Inhibitors_by_Molecular_Modeling_and_Machine_Learning_Approaches) 
 **Access Tools**: [Tyrosine Kinase](https://drugs4tyrosinekinase.streamlit.app/), [Histone AcetylTransferase](https://drugs4acetyltransferase.streamlit.app/), [Induced myeloid leukemia cell differentiation](https://drugs4mcl.streamlit.app/)
 
 ---

@@ -1,15 +1,12 @@
 ---
-title: "Teaching Materials in Neuroscience"
-collection: teaching
-type: "Educational Resources"
-permalink: /teaching/neuroscience-materials
-venue: "Independent initiative"
-date: 2025-08-01
-location: "Online"
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
 ---
 
-I have developed a series of teaching materials in neuroscience, aimed at undergraduates.  
-These include:
+## Teaching Materials in Neuroscience
+**Educational Resources, Independent initiative, 2025**
 
 - [Diffusion Models for De Novo CNS Drug Discovery](https://www.slideshare.net/slideshow/diffusion-models-for-de-novo-cns-drug-discovery/282007613)
 - [Multimodal Deep Learning for Early Schizophrenia Prediction](https://www.slideshare.net/slideshow/multimodal-deep-learning-for-early-schizophrenia-prediction/282008957)

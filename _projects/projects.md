@@ -5,9 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Projects
-
----
 Many of my machine learning projects targeting different biomedical problems were inspired by the work of [Chanin Nantasenamat](https://chanin-resume.streamlit.app/), whose research demonstrated how data-driven approaches can be applied across diverse therapeutic areas.
 
 ### 🧠 Machine Learning-Driven QSAR and Docking Pipeline for Alzheimer’s Disease

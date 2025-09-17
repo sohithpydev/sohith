@@ -12,7 +12,7 @@ I have authored three books at the intersection of **neuroscience, neurodegenera
 ---
 
 ### 📘 *Simulated Minds: Rewriting Neurodegenerative Trials with AI*  
-![Book 1 Cover](/sohith/images/book1.jpg)  
+![Book 1 Cover](/sohith/images/book_1.png)  
 
 This book explores how **AI can revolutionize clinical trials for neurodegenerative diseases**, covering virtual patients, synthetic control arms, federated learning, and decentralized trial designs. It emphasizes both the promise and ethical challenges of AI-driven drug development.  
 
@@ -21,7 +21,7 @@ This book explores how **AI can revolutionize clinical trials for neurodegenerat
 ---
 
 ### 📘 *AI-Driven Early Detection of Neurodegenerative Disorders*  
-![Book 2 Cover](/sohith/images/book2.jpg)  
+![Book 2 Cover](/sohith/images/book_2.png)  
 
 Focused on **biomarkers, neuroimaging, wearables, and machine learning models**, this book presents a comprehensive view of how AI enables early detection of Alzheimer’s, Parkinson’s, ALS, and Huntington’s disease. It also addresses data quality, interpretability, and ethical considerations in predictive diagnostics.  
 
@@ -30,7 +30,7 @@ Focused on **biomarkers, neuroimaging, wearables, and machine learning models**,
 ---
 
 ### 📘 *AI-Powered Brain-Computer Interfaces for Neurodegeneration Patients*  
-![Book 3 Cover](/sohith/images/book3.jpg)  
+![Book 3 Cover](/sohith/images/book_3.png)  
 
 This book introduces the role of **AI in advancing brain-computer interfaces (BCIs)** to support communication, mobility, and independence in patients with ALS, Parkinson’s, and other neurodegenerative conditions. Topics include neural signal processing, adaptive learning, hardware innovations, and ethical frameworks for clinical adoption.  
 

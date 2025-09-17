@@ -9,27 +9,33 @@ redirect_from:
 
 I’m a final-year Bioinformatics undergrad at Saveetha School of Engineering, SIMATS University, Chennai, fueled by a passion for blending neuroscience, structural biology, and AI to solve real-world healthcare challenges.
 
-**What I’m Working On**
+## **What I’m Working On**
 
-Right now, I’m a student researcher at the University of Colorado Colorado Springs (with Ioncure), building AI tools using NLP, Computer Vision, and Machine Learning to raise awareness about neurodegeneration. I also dive into computational drug discovery, AI-driven diagnostics, and molecular modeling—pretty exciting stuff!
+Right now, I’m a student researcher at the University of Colorado Colorado Springs (with Ioncure), building AI tools using NLP, Computer Vision, and Machine Learning to raise awareness about neurodegeneration.  
 
-**My Journey So Far**
+I also dive into computational drug discovery, AI-driven diagnostics, and molecular modeling—pretty exciting stuff!
+
+## **My Journey So Far**
 
 Over the past year, I’ve been lucky to work with some amazing teams across Asia:
 
-· *Chang Gung University, Taiwan:* Explored molecular docking to study drug-target interactions.
-· *KEK, Japan:* Worked on X-ray crystallography and Cryo-EM at the Structural Biology Research Center, and wrote English technical manuals for future interns.
-· *National Dong Hwa University, Taiwan:* As a TEEP@Asia+ Scholar, I built a machine learning pipeline for TB/NTM classification using mass spectrometry data, hitting a 0.98 AUROC and 0.94 F1-score.
+- **Chang Gung University, Taiwan:** Explored molecular docking to study drug-target interactions.  
+- **KEK, Japan:** Worked on X-ray crystallography and Cryo-EM at the Structural Biology Research Center, and wrote English technical manuals for future interns.  
+- **National Dong Hwa University, Taiwan:** As a TEEP@Asia+ Scholar, I built a machine learning pipeline for TB/NTM classification using mass spectrometry data, hitting a 0.98 AUROC and 0.94 F1-score.
 
-I’ve also published few papers, filed patents, and mentored STEM students to make science more approachable. Through books, podcasts, and blogs, I love sharing knowledge and sparking curiosity.
+I’ve also published a few papers, filed patents, and mentored STEM students to make science more approachable. Through books, podcasts, and blogs, I love sharing knowledge and sparking curiosity.
 
-**Beyond the Lab**
+## **Beyond the Lab**
 
-When I’m not geeking out over science, you’ll find me exploring new places—sipping coffee in cozy Taiwanese cafés or savoring ramen in Tokyo’s lively streets. These adventures often inspire my next research idea. I’m excited to bring this curiosity into my PhD journey.
+When I’m not geeking out over science, you’ll find me exploring new places—sipping coffee in cozy Taiwanese cafés or savoring ramen in Tokyo’s lively streets.  
 
-**Let’s Connect!**
+These adventures often inspire my next research idea. I’m excited to bring this curiosity into my PhD journey.
 
-If you’re into neuroscience, AI in healthcare, or just want to chat research over coffee, I’d love to hear from you. Let’s make science happen together!
+## **Let’s Connect!**
+
+If you’re into neuroscience, AI in healthcare, or just want to chat research over coffee, I’d love to hear from you.  
+
+Let’s make science happen together!
 
 
 Research Experience

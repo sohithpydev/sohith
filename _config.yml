@@ -194,7 +194,7 @@ collections:
   youtube:
     output: true
     permalink: /:collection/path/
-  year_archive:
+  blogs:
     output: true
     permalink: /:collection/path/
   projects:
@@ -204,7 +204,7 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
+  # _posts/medium
   - scope:
       path: ""
       type: posts

@@ -20,8 +20,8 @@ main:
   - title: "Projects"
     url: /projects/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Blogs"
+    url: /posts/
 
   - title: "YouTube"
     url: /youtube/

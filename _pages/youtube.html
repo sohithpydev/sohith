@@ -6,7 +6,25 @@ permalink: /youtube/
 
 {% for post in site.posts %}
   {% if post.path contains '_posts/youtube/' %}
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <p>{{ post.excerpt }}</p>
+    <div class="youtube-post" style="margin-bottom: 2rem;">
+      <!-- Plain title -->
+      <h3>{{ post.title }}</h3>
+
+      <!-- Thumbnail -->
+      {% assign video_id = post.content | regex_find: 'youtube.com/watch\\?v=([A-Za-z0-9_-]+)' %}
+      {% if video_id %}
+        <a href="{{ post.content | regex_find: 'https?://www.youtube.com/watch\\?v=[A-Za-z0-9_-]+' }}" target="_blank">
+          <img src="https://img.youtube.com/vi/{{ video_id[1] }}/mqdefault.jpg" 
+               alt="{{ post.title }}" 
+               style="width:320px; height:auto; margin-bottom: 0.5rem;">
+        </a>
+      {% endif %}
+
+      <!-- Watch link -->
+      {% assign video_link = post.content | regex_find: 'https?://www.youtube.com/watch\\?v=[A-Za-z0-9_-]+' %}
+      {% if video_link %}
+        <p><a href="{{ video_link[0] }}" target="_blank">Watch on YouTube</a></p>
+      {% endif %}
+    </div>
   {% endif %}
 {% endfor %}

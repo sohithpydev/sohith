@@ -13,5 +13,6 @@ author_profile: true
 - [Explainable AI in Neurodegenerative Disease Progression](https://www.slideshare.net/slideshow/explainable-ai-in-neurodegenerative-disease-progression/282080385)
 - [Generative AI for Synthetic Neuroimaging Data](https://www.slideshare.net/slideshow/generative-ai-for-synthetic-neuroimaging-data/282127682)
 - [Graph Neural Networks in Brain Connectivity Analysis](https://www.slideshare.net/slideshow/graph-neural-networks-in-brain-connectivity-analysis/282205385)
+- [Transformer Models for Longitudinal Neuroimaging](https://www.slideshare.net/slideshow/transformer-models-for-longitudinal-neuroimaging/283243463)
 
 This experience demonstrates transferable skills in teaching and mentoring, which I aim to further develop during doctoral studies.

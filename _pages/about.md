@@ -42,9 +42,9 @@ Research Experience
 ====
 **Current Experience**
 
-![Research](/sohith/images/cgu_1.jpg){: .align-right width="150px"}
-**Research Intern, Chang Gung University, Taoyuan, Taiwan (On-site)** 
-*AUG' 25 - OCT' 25*
+![Research](/sohith/images/cgu_1.jpg){: .align-right width="300px"}
+**Research Collaborator / Ongoing Research Intern, Chang Gung University, Taoyuan, Taiwan (Hybrid)** 
+*AUG' 25 - PRESENT*
 
 Analyzing Influenza A virus RdRp (H5N1) structures to identify and prioritize potential target sites for small-molecule inhibition in this pilot project funded with NT$2,600,000, in collaboration with the Department of Chemical Engineering, IIT Delhi, and RIIS, Okayama University, Japan. Developing and implementing an AI-driven virtual screening pipeline for ~10 million compounds to discover cost-effective, orally available inhibitors for avian feed applications under the guidance of PI [Scott C. Schuyler](https://scs03596.wixsite.com/scslab), aiming to reduce zoonotic transmission. Developing and implementing an AI-driven virtual screening pipeline for ~10 million compounds to discover cost-effective, orally available inhibitors for avian feed applications under the guidance of PI Scott C. Schuyler, aiming to reduce zoonotic transmission.
 
@@ -53,7 +53,7 @@ Analyzing Influenza A virus RdRp (H5N1) structures to identify and prioritize po
 
 Working in collaboration with the University of Colorado and Ioncure to develop and apply AI-driven methods for evaluating neurodegeneration awareness. Leveraging Natural Language Processing (NLP), Computer Vision, Machine Learning, and advanced data science techniques to analyze diverse data sources.
 <p align="center">
-  <img src="/sohith/images/uccs_upr_collab.png" width="200px">
+  <img src="/sohith/images/uccs_upr_collab.png" width="500px">
 </p>
 
 ![Research](/sohith/images/lab_3.png){: .align-right width="200px"}

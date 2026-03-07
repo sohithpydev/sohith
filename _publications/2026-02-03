@@ -1,0 +1,15 @@
+---
+title: "Machine Learning-driven QSAR and Docking Pipeline for Identification of Amyloid Beta-A4 Inhibitors in Alzheimer’s Disease"
+collection: publications
+category: manuscripts
+permalink: /publication/2026-02-03
+excerpt: 'This review highlights the biological mechanisms and clinical implications of smoking on dental implant outcomes.'
+date: 'February 2026'
+venue: 'Bioinformation'
+paperurl: 'https://journals.sagepub.com/doi/10.1177/0976500X261417108'
+citation: 'Korlagunta SR, Selvan IM, Dhanasekaran S. Machine Learning-driven QSAR and Docking Pipeline for Identification of Amyloid Beta-A4 Inhibitors in Alzheimer’s Disease. Journal of Pharmacology and Pharmacotherapeutics. 2026;0(0). doi:10.1177/0976500X261417108'
+---
+
+Alzheimer’s disease (AD) is a long-term neurodegenerative condition that leads to the gradual deterioration of nerve cells. The goal of this study is to use computational drug discovery (CDD) techniques to discover lead compounds that target Amyloid-beta A4 (AβA4) as a potential target for AD. Quantitative structure-activity relationship (QSAR) modeling is used in this study to compare different machine learning (ML) models aimed at predicting the potency negative logarithm of IC50 (pIC50) of candidate compounds, which are then validated by molecular docking based on their binding affinity. A non-redundant dataset consisting of 1,241 compounds for AβA4 was retrieved from the ChEMBL database. 880 substructure fingerprints were used to define these compounds, followed by building 42 ML models and comparison. The Kennard–Stone algorithm was employed to select a diverse set of 30 compounds from the set of active inhibitors for testing. The application programming interface (API), named NeuroIC50, was developed and deployed. The histogram-based gradient boosting regression (HGBR) tree has achieved the optimal performance compared to other regression models, as determined by its root mean square error (RMSE) of 0.73, R2 value of 0.65, and time efficiency of 0.78. Random forest regression (RFR)-HGBR-derived Gini index revealed the importance of features, include SubFP23, SubFP405, and SubFP577 in the compounds. The lead compound (CHEMBL5080033) with a pIC50 of 8.67 M and a binding energy of −7.6 kcal/mol was identified. This ML-based QSAR modeling and docking approach is an effective strategy for accelerating drug discovery.
+
+Key words:  Alzheimer's, neurodegeneration, machine learning, qsar

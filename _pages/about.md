@@ -7,36 +7,39 @@ redirect_from:
   - /about.html
 ---
 
-I’m a final-year Bioinformatics undergrad at Saveetha School of Engineering, SIMATS University, Chennai, fueled by a passion for blending neuroscience, structural biology, and AI to solve real-world healthcare challenges.
+I’m a final-year Bioinformatics undergrad at Saveetha School of Engineering, SIMATS University, Chennai, fascinated by how **biological structures translate into measurable phenotypes in disease models**. My work sits at the intersection of **anatomy, biomedical imaging, and computational analysis**, where I explore how machine learning and quantitative pipelines can help transform complex biological data into reproducible insights.
 
 ## **What I’m Working On**
 
-Right now, I’m a student researcher at the University of Colorado Colorado Springs (with Ioncure), building AI tools using NLP, Computer Vision, and Machine Learning to raise awareness about neurodegeneration.  
+Right now, I’m a student researcher at the University of Colorado Colorado Springs (with Ioncure), building AI tools using **NLP, Computer Vision, and Machine Learning** to study patterns related to neurodegeneration and biomedical data analysis.
 
-I also dive into computational drug discovery, AI-driven diagnostics, and molecular modeling—pretty exciting stuff!
+More broadly, I’m interested in **computational phenotyping**—integrating imaging, anatomical, and molecular datasets to better understand disease mechanisms and biological variation.
 
 ## **My Journey So Far**
 
-Over the past year, I’ve been lucky to work with some amazing teams across Asia:
+Over the past few years, I’ve had the opportunity to work on interdisciplinary projects across anatomy, structural biology, and machine learning.
 
-- **Chang Gung University, Taiwan:** Explored molecular docking to study drug-target interactions.  
-- **KEK, Japan:** Worked on X-ray crystallography and Cryo-EM at the Structural Biology Research Center, and wrote English technical manuals for future interns.  
-- **National Dong Hwa University, Taiwan:** As a TEEP@Asia+ Scholar, I built a machine learning pipeline for TB/NTM classification using mass spectrometry data, hitting a 0.98 AUROC and 0.94 F1-score.
+- **Joint Institute for Nuclear Research:** Worked on **virtual histology of irradiated mouse tissue** using atlas-guided approaches. I helped automate the quantification of **TUNEL-positive apoptotic cells**, which introduced me to the challenge of translating complex tissue architecture into standardized and reproducible phenotypic measurements.
 
-I’ve also published a few papers, filed patents, and mentored STEM students to make science more approachable. Through books, podcasts, and blogs, I love sharing knowledge and sparking curiosity.
+- **National Dong Hwa University, Taiwan:** As a **TEEP@Asia+ Scholar**, I built a machine learning pipeline for TB/NTM classification using **MALDI-TOF mass spectrometry data**, integrating spectral preprocessing, feature engineering, and model evaluation to identify diagnostic biomarkers.
+
+- **Chang Gung University, Taiwan:** As an **IIPP Scholar in the Department of Biomedical Sciences under Dr. Scott Charles Schuyler**, I analyzed structural data of the **Influenza A (H5N1) RNA-dependent RNA polymerase complex** to identify potential target sites for small-molecule inhibition. This pilot project, supported by NT$2.6M in funding and conducted in collaboration with IIT Delhi and RIIS Okayama University, focuses on developing cost-effective antiviral strategies. I will also be developing an **AI-driven virtual screening pipeline** to evaluate ~10 million compounds for potential inhibitors.
+
+- **KEK, Japan:** Worked at the **Structural Biology Research Center**, gaining exposure to **X-ray crystallography and Cryo-EM workflows** and contributing to technical documentation to support future researchers and interns.
 
 ## **Beyond the Lab**
 
-When I’m not geeking out over science, you’ll find me exploring new places—sipping coffee in cozy Taiwanese cafés or savoring ramen in Tokyo’s lively streets.  
+Outside research, I enjoy mentoring students and creating open educational resources related to computational neuroscience and data science. I’ve worked with students from under-resourced backgrounds, helping them learn programming and scientific thinking.
 
-These adventures often inspire my next research idea. I’m excited to bring this curiosity into my PhD journey.
+Travel has also been a big part of my research journey—from quiet Taiwanese cafés to late-night ramen runs in Tokyo—experiences that constantly remind me how collaborative and global science really is.
+
+## **Looking Ahead**
+
+I’m particularly interested in developing **quantitative and reproducible pipelines for biological phenotyping**, combining imaging, anatomy, and machine learning to better understand disease models and biological systems.
 
 ## **Let’s Connect!**
 
-If you’re into neuroscience, AI in healthcare, or just want to chat research over coffee, I’d love to hear from you.  
-
-Let’s make science happen together!
-
+If you’re into computational biology, imaging-based analysis, or AI in biomedical research, I’d love to connect and talk science.
 
 Research Experience
 ====

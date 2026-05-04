@@ -7,39 +7,37 @@ redirect_from:
   - /about.html
 ---
 
-I’m a final-year Bioinformatics undergrad at Saveetha School of Engineering, SIMATS University, Chennai, fascinated by how **biological structures translate into measurable phenotypes in disease models**. My work sits at the intersection of **anatomy, biomedical imaging, and computational analysis**, where I explore how machine learning and quantitative pipelines can help transform complex biological data into reproducible insights.
+I’m a final-year Bioinformatics undergrad at Saveetha School of Engineering, SIMATS University, Chennai, driven by an interest in mathematical modeling, cheminformatics, and AI-driven approaches for understanding complex biological systems.
 
 ## **What I’m Working On**
 
-Right now, I’m a student researcher at the University of Colorado Colorado Springs (with Ioncure), building AI tools using **NLP, Computer Vision, and Machine Learning** to study patterns related to neurodegeneration and biomedical data analysis.
-
-More broadly, I’m interested in **computational phenotyping**—integrating imaging, anatomical, and molecular datasets to better understand disease mechanisms and biological variation.
+Right now, I’m a student researcher at the University of Colorado Colorado Springs (with Ioncure), under Dr. Sukant Khurana and Dr. Brooks Robinson, where I develop AI-driven pipelines using **machine learning, NLP, and data-driven modeling** for biomedical datasets. In parallel, I’m collaborating with Chang Gung University under Dr. Scott C. Schuyler, working on **virtual screening and computational drug discovery**, focusing on large-scale compound evaluation against targets like the APC/C complex and Influenza A virus.
 
 ## **My Journey So Far**
 
-Over the past few years, I’ve had the opportunity to work on interdisciplinary projects across anatomy, structural biology, and machine learning.
+Over the past few years, I’ve worked on interdisciplinary projects spanning bioinformatics, structural biology, and predictive modeling.
 
-- **Joint Institute for Nuclear Research:** Worked on **virtual histology of irradiated mouse tissue** using atlas-guided approaches. I helped automate the quantification of **TUNEL-positive apoptotic cells**, which introduced me to the challenge of translating complex tissue architecture into standardized and reproducible phenotypic measurements.
+- **Joint Institute for Nuclear Research:** Worked on computational analysis of biological datasets using **automated image quantification and statistical modeling approaches**, which introduced me to challenges in building **robust, scalable, and reproducible computational pipelines** for complex biological data.
 
-- **National Dong Hwa University, Taiwan:** As a **TEEP@Asia+ Scholar**, I built a machine learning pipeline for TB/NTM classification using **MALDI-TOF mass spectrometry data**, integrating spectral preprocessing, feature engineering, and model evaluation to identify diagnostic biomarkers.
+- **National Dong Hwa University, Taiwan:** As a **TEEP@Asia+ Scholar**, I designed a machine learning framework for TB/NTM classification using **MALDI-TOF mass spectrometry data**, incorporating signal preprocessing, feature engineering (TIC, AUC, FWHM), and benchmarking across multiple models (including LightGBM and CatBoost), with emphasis on **model generalization and interpretability (SHAP analysis)**.
 
-- **Chang Gung University, Taiwan:** As an **IIPP Scholar in the Department of Biomedical Sciences under Dr. Scott Charles Schuyler**, I analyzed structural data of the **Influenza A (H5N1) RNA-dependent RNA polymerase complex** to identify potential target sites for small-molecule inhibition. This pilot project, supported by NT$2.6M in funding and conducted in collaboration with IIT Delhi and RIIS Okayama University, focuses on developing cost-effective antiviral strategies. I will also be developing an **AI-driven virtual screening pipeline** to evaluate ~10 million compounds for potential inhibitors.
+- **Chang Gung University, Taiwan:** As an **IIPP Scholar in the Department of Biomedical Sciences under Dr. Scott Charles Schuyler**, I analyzed structural and sequence-level data of the **Influenza A (H5N1) RNA-dependent RNA polymerase complex**, integrating **computational modeling and virtual screening approaches**. I am currently developing a **large-scale AI-driven screening pipeline** to evaluate ~10 million compounds, with a focus on **QSAR modeling, feature representation, and optimization of predictive performance**.
 
-- **KEK, Japan:** Worked at the **Structural Biology Research Center**, gaining exposure to **X-ray crystallography and Cryo-EM workflows** and contributing to technical documentation to support future researchers and interns.
+- **KEK, Japan:** At the **Structural Biology Research Center**, I gained exposure to **high-resolution structural datasets** and contributed to computational workflows and documentation supporting structural data analysis pipelines.
 
 ## **Beyond the Lab**
 
-Outside research, I enjoy mentoring students and creating open educational resources related to computational neuroscience and data science. I’ve worked with students from under-resourced backgrounds, helping them learn programming and scientific thinking.
+Outside research, I enjoy mentoring students in **programming, machine learning, and data science**, especially those transitioning into computational research. I’m particularly interested in building resources that simplify complex topics like modeling, algorithm design, and applied AI in biology.
 
-Travel has also been a big part of my research journey—from quiet Taiwanese cafés to late-night ramen runs in Tokyo—experiences that constantly remind me how collaborative and global science really is.
+Travel has also shaped my perspective—from Taiwanese research labs to Japanese research centers—constantly reinforcing how interdisciplinary and collaborative modern science has become.
 
 ## **Looking Ahead**
 
-I’m particularly interested in developing **quantitative and reproducible pipelines for biological phenotyping**, combining imaging, anatomy, and machine learning to better understand disease models and biological systems.
+I’m particularly interested in developing **mathematically grounded and scalable computational frameworks**, including **QSAR modeling, predictive bioinformatics, and data-driven drug discovery pipelines**, with a focus on extracting meaningful patterns from high-dimensional biological and chemical data.
 
 ## **Let’s Connect!**
 
-If you’re into computational biology, imaging-based analysis, or AI in biomedical research, I’d love to connect and talk science.
+If you’re into computational biology, mathematical modeling, QSAR, or AI in drug discovery, I’d love to connect and talk science.
 
 Research Experience
 ====

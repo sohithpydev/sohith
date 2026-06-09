@@ -17,11 +17,9 @@ Right now, I’m a student researcher at the University of Colorado Colorado Spr
 
 Over the past few years, I’ve worked on interdisciplinary projects spanning bioinformatics, structural biology, and predictive modeling.
 
-- **Joint Institute for Nuclear Research:** Worked on computational analysis of biological datasets using **automated image quantification and statistical modeling approaches**, which introduced me to challenges in building **robust, scalable, and reproducible computational pipelines** for complex biological data.
+- **Chang Gung University, Taiwan:** As an **IIPP Scholar in the Department of Biomedical Sciences under Dr. Scott Charles Schuyler**, I analyzed structural and sequence-level data of the **Influenza A (H5N1) RNA-dependent RNA polymerase complex**, integrating **computational modeling and virtual screening approaches**. I am currently developing a **large-scale AI-driven screening pipeline** to evaluate ~10 million compounds, with a focus on **QSAR modeling, feature representation, and optimization of predictive performance**.
 
 - **National Dong Hwa University, Taiwan:** As a **TEEP@Asia+ Scholar**, I designed a machine learning framework for TB/NTM classification using **MALDI-TOF mass spectrometry data**, incorporating signal preprocessing, feature engineering (TIC, AUC, FWHM), and benchmarking across multiple models (including LightGBM and CatBoost), with emphasis on **model generalization and interpretability (SHAP analysis)**.
-
-- **Chang Gung University, Taiwan:** As an **IIPP Scholar in the Department of Biomedical Sciences under Dr. Scott Charles Schuyler**, I analyzed structural and sequence-level data of the **Influenza A (H5N1) RNA-dependent RNA polymerase complex**, integrating **computational modeling and virtual screening approaches**. I am currently developing a **large-scale AI-driven screening pipeline** to evaluate ~10 million compounds, with a focus on **QSAR modeling, feature representation, and optimization of predictive performance**.
 
 - **KEK, Japan:** At the **Structural Biology Research Center**, I gained exposure to **high-resolution structural datasets** and contributed to computational workflows and documentation supporting structural data analysis pipelines.
 
@@ -48,21 +46,6 @@ Research Experience
 *AUG' 25 - PRESENT*
 
 Analyzing Influenza A virus RdRp (H5N1) structures to identify and prioritize potential target sites for small-molecule inhibition in this pilot project funded with NT$2,600,000, in collaboration with the Department of Chemical Engineering, IIT Delhi, and RIIS, Okayama University, Japan. Developing and implementing an AI-driven virtual screening pipeline for ~10 million compounds to discover cost-effective, orally available inhibitors for avian feed applications under the guidance of PI [Scott C. Schuyler](https://scs03596.wixsite.com/scslab), aiming to reduce zoonotic transmission. 
-
-**Undergraduate Student Researcher, University of Colorado Colorado Springs (UCCS), Colorado Springs, United States of America (Remote)**                                                                                                                  
-*DEC' 24 - Present*
-
-Working in collaboration with the University of Colorado and Ioncure to develop and apply AI-driven methods for evaluating neurodegeneration awareness. Leveraging Natural Language Processing (NLP), Computer Vision, Machine Learning, and advanced data science techniques to analyze diverse data sources.
-<p align="center">
-  <img src="/sohith/images/uccs_upr_collab.png" width="500px">
-</p>
-
-![Research](/sohith/images/lab_3.png){: .align-right width="200px"}
-![Research](/sohith/images/lab_2.png){: .align-right width="200px"}
-**Research Assistant, Manipal University College, Melaka, Malaysia (Hybrid)**                                                                   
-*MAY' 24 - Present*
-
-Analyzed Solanum nigrum extract for antibacterial compounds using GC-MS data, successfully identifying 50 bioactive components under the guidance of [Dr. Sugapriya](https://scholar.google.co.in/citations?hl=en&user=dieHes4AAAAJ). This research has laid the groundwork for novel antimicrobial investigations using plant-based compounds. Conducted in silico docking studies on M. tuberculosis MurE ligase using AutoDock Vina to identify potential anti-TB agents from S. nigrum extract. Currently, I am assisting with writing research papers, contributing to book chapters, and supporting various ongoing projects in the field of antimicrobial research.
 
 **Previous Experience**
 
@@ -110,6 +93,21 @@ Operated MALDI-TOF mass spectrometer at [Biophysics Mass Spectrometry Lab, NDHU]
   <img src="/sohith/images/ndhu_3.jpg" width="350px" alt="Research"><br>
   <em>Lab members of BMS group at Liyu Lake after a trek 🌿</em>
 </p> 
+
+**Research Assistant, University of Colorado Colorado Springs (UCCS), Colorado Springs, United States of America (Remote)**                                                                                                                  
+*MAY' 24 - MAY' 26*
+
+Worked in collaboration with the UCCS and Ioncure to develop and apply AI-driven methods for evaluating neurodegeneration awareness. Leveraged Natural Language Processing (NLP), Computer Vision, Machine Learning, and advanced data science techniques to analyze diverse data sources.
+<p align="center">
+  <img src="/sohith/images/uccs_upr_collab.png" width="500px">
+</p>
+
+![Research](/sohith/images/lab_3.png){: .align-right width="200px"}
+![Research](/sohith/images/lab_2.png){: .align-right width="200px"}
+**Research Assistant, Manipal University College, Melaka, Malaysia (Hybrid)**                                                                   
+*APR' 24 - APR' 26*
+
+Developed machine learning-based QSAR models for Alzheimer's disease and schizophrenia drug discovery. Assisted in molecular docking and molecular dynamics simulations across cancer, tuberculosis, and neurological disease targets to study protein-ligand interactions and develop reproducible bioinformatics workflows across systems biology and genomics applications. Analyzed Solanum nigrum extract for antibacterial compounds using GC-MS data, successfully identifying 50 bioactive components under the guidance of [Dr. Sugapriya](https://scholar.google.co.in/citations?hl=en&user=dieHes4AAAAJ). This research has laid the groundwork for novel antimicrobial investigations using plant-based compounds. Conducted in silico docking studies on M. tuberculosis MurE ligase identify potential anti-TB compounds from S. nigrum extract.
 
 ![Research](/sohith/images/jinr_1.jpg){: .align-right width="350px"}
 **Research Intern, Joint Institute for Nuclear Research, Moscow, Russia (Remote)**                                                                     

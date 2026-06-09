@@ -83,6 +83,12 @@ Analyzing Influenza A virus RdRp (H5N1) structures to identify and prioritize po
   <em>Lab members of SBRC group during our dinner pizza party 🍕🎉</em>
 </p>
 
+![Research](/sohith/images/jinr_1.jpg){: .align-right width="350px"}
+**Research Intern, Joint Institute for Nuclear Research, Moscow, Russia (Remote)**                                                                     
+*MAR' 25 - APR' 25*
+
+During this virtual internship, I focused on histological analysis of the central nervous system post-irradiation, with two key objectives. First, I performed manual classification of neurons and glial cells using ImageJ’s Cell Counter plugin. I mapped anatomical brain regions with guidance from the Allen Brain Atlas and classical histology references. Second, I quantified apoptotic cell death by analyzing TUNEL-stained sections to detect and compare TUNEL-positive cells between control and irradiated samples. This integrated approach combined traditional neurohistology with digital image analysis to enhance the accuracy and efficiency of CNS pathology assessment. [Report Link](https://docs.google.com/document/d/1SDh0sFIgMSiuCpJ-axugk5Nn8dxYnNOT94AW9oLpdHU/edit?usp=sharing)   
+
 ![Research](/sohith/images/ndhu_1.JPG){: .align-right width="140px"}
 ![Research](/sohith/images/ndhu_2.jpeg){: .align-right width="150px"}
 **Research Intern, National Dong Hwa University, Hualien, Taiwan (On-site)**                                                                              
@@ -107,13 +113,7 @@ Worked in collaboration with the UCCS and Ioncure to develop and apply AI-driven
 **Research Assistant, Manipal University College, Melaka, Malaysia (Hybrid)**                                                                   
 *APR' 24 - APR' 26*
 
-Developed machine learning-based QSAR models for [Alzheimer's disease (published)](https://journals.sagepub.com/doi/10.1177/0976500X261417108) and schizophrenia drug discovery. Assisted in molecular docking and molecular dynamics simulations across cancer, tuberculosis, and neurological disease targets to study protein-ligand interactions and develop reproducible bioinformatics workflows across systems biology and genomics applications. Analyzed Solanum nigrum extract for antibacterial compounds using GC-MS data, successfully identifying 50 bioactive components under the guidance of [Dr. Sugapriya](https://scholar.google.co.in/citations?hl=en&user=dieHes4AAAAJ). This research has laid the groundwork for novel antimicrobial investigations using plant-based compounds. Conducted in silico docking studies on M. tuberculosis MurE ligase identify potential anti-TB compounds from S. nigrum extract.
-
-![Research](/sohith/images/jinr_1.jpg){: .align-right width="350px"}
-**Research Intern, Joint Institute for Nuclear Research, Moscow, Russia (Remote)**                                                                     
-*MAR' 25 - APR' 25*
-
-During this internship, I focused on histological analysis of the central nervous system post-irradiation, with two key objectives. First, I performed manual classification of neurons and glial cells using ImageJ’s Cell Counter plugin. I mapped anatomical brain regions with guidance from the Allen Brain Atlas and classical histology references. Second, I quantified apoptotic cell death by analyzing TUNEL-stained sections to detect and compare TUNEL-positive cells between control and irradiated samples. This integrated approach combined traditional neurohistology with digital image analysis to enhance the accuracy and efficiency of CNS pathology assessment. [Report Link](https://docs.google.com/document/d/1SDh0sFIgMSiuCpJ-axugk5Nn8dxYnNOT94AW9oLpdHU/edit?usp=sharing)                                       
+Developed machine learning-based QSAR models for [Alzheimer's disease (published)](https://journals.sagepub.com/doi/10.1177/0976500X261417108) and schizophrenia drug discovery. Assisted in molecular docking and molecular dynamics simulations across cancer, tuberculosis, and neurological disease targets to study protein-ligand interactions and develop reproducible bioinformatics workflows across systems biology and genomics applications. Analyzed Solanum nigrum extract for antibacterial compounds using GC-MS data, successfully identifying 50 bioactive components under the guidance of [Dr. Sugapriya](https://scholar.google.co.in/citations?hl=en&user=dieHes4AAAAJ). This research has laid the groundwork for novel antimicrobial investigations using plant-based compounds. Conducted in silico docking studies on M. tuberculosis MurE ligase identify potential anti-TB compounds from S. nigrum extract.                                    
 
 ![res](/sohith/images/kannan.jpg){: .align-right width="400px"}
 **Undergraduate Research Student, Saveetha School of Engineering, Chennai, India (On-site)**                                                              

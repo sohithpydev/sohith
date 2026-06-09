@@ -11,7 +11,7 @@ I’m a final-year Bioinformatics undergrad at Saveetha School of Engineering, S
 
 ## **What I’m Working On**
 
-Right now, I’m a student researcher at the University of Colorado Colorado Springs (with Ioncure), under Dr. Sukant Khurana and Dr. Brooks Robinson, where I develop AI-driven pipelines using **machine learning, NLP, and data-driven modeling** for biomedical datasets. In parallel, I’m collaborating with Chang Gung University under Dr. Scott C. Schuyler, working on **virtual screening and computational drug discovery**, focusing on large-scale compound evaluation against targets like the APC/C complex and Influenza A virus.
+Right now, I’m collaborating with Chang Gung University, Taiwan under Dr. Scott C. Schuyler, working on **virtual screening and computational drug discovery**, focusing on large-scale compound evaluation against targets like the APC/C complex and Influenza A virus.
 
 ## **My Journey So Far**
 
@@ -45,7 +45,7 @@ Research Experience
 **Research Collaborator / Ongoing Research Intern, Chang Gung University, Taoyuan, Taiwan (Hybrid)** 
 *AUG' 25 - PRESENT*
 
-Analyzing Influenza A virus RdRp (H5N1) structures to identify and prioritize potential target sites for small-molecule inhibition in this pilot project funded with NT$2,600,000, in collaboration with the Department of Chemical Engineering, IIT Delhi, and RIIS, Okayama University, Japan. Developing and implementing an AI-driven virtual screening pipeline for ~10 million compounds to discover cost-effective, orally available inhibitors for avian feed applications under the guidance of PI [Scott C. Schuyler](https://scs03596.wixsite.com/scslab), aiming to reduce zoonotic transmission. 
+Analyzing Influenza A virus RdRp (H5N1) structures to identify and prioritize potential target sites for small-molecule inhibition in this pilot project funded with NT$2,600,000, in collaboration with the Department of Chemical Engineering, IIT Delhi, and RIIS, Okayama University, Japan. Developing and implementing an AI-driven virtual screening pipeline for ultralarge library to discover cost-effective, orally available inhibitors for avian feed applications under the guidance of PI [Scott C. Schuyler](https://scs03596.wixsite.com/scslab), and [Prof. Goel](https://www.linkedin.com/in/goelgiitd/) from IIT Delhi, aiming to reduce zoonotic transmission. 
 
 **Previous Experience**
 
@@ -88,7 +88,7 @@ Analyzing Influenza A virus RdRp (H5N1) structures to identify and prioritize po
 **Research Intern, National Dong Hwa University, Hualien, Taiwan (On-site)**                                                                              
 *JAN' 25 - JUN' 25*
 
-Operated MALDI-TOF mass spectrometer at [Biophysics Mass Spectrometry Lab, NDHU](http://faculty.ndhu.edu.tw/~PENGW/contact/) for TB and NTM sample analysis under the supervision of [Dr. Wing Peng-Ping](https://www.researchgate.net/profile/Wen-Ping-Peng/research) and developed ML models for tuberculosis classification using acquired spectral data and performing statistical analysis and feature selection to identify significant m/z peaks, coupled with spectral data visualization for enhanced interpretability.
+Operated Bruker's MALDI-TOF mass spectrometer at [Biophysics Mass Spectrometry Lab, NDHU](http://faculty.ndhu.edu.tw/~PENGW/contact/) for TB and NTM sample analysis under the supervision of [Dr. Wing Peng-Ping](https://www.researchgate.net/profile/Wen-Ping-Peng/research) and developed ML models for tuberculosis classification using acquired spectral data and performing statistical analysis and feature selection to identify significant m/z peaks, coupled with spectral data visualization for enhanced interpretability.
 <p align="center">
   <img src="/sohith/images/ndhu_3.jpg" width="350px" alt="Research"><br>
   <em>Lab members of BMS group at Liyu Lake after a trek 🌿</em>
@@ -107,7 +107,7 @@ Worked in collaboration with the UCCS and Ioncure to develop and apply AI-driven
 **Research Assistant, Manipal University College, Melaka, Malaysia (Hybrid)**                                                                   
 *APR' 24 - APR' 26*
 
-Developed machine learning-based QSAR models for Alzheimer's disease and schizophrenia drug discovery. Assisted in molecular docking and molecular dynamics simulations across cancer, tuberculosis, and neurological disease targets to study protein-ligand interactions and develop reproducible bioinformatics workflows across systems biology and genomics applications. Analyzed Solanum nigrum extract for antibacterial compounds using GC-MS data, successfully identifying 50 bioactive components under the guidance of [Dr. Sugapriya](https://scholar.google.co.in/citations?hl=en&user=dieHes4AAAAJ). This research has laid the groundwork for novel antimicrobial investigations using plant-based compounds. Conducted in silico docking studies on M. tuberculosis MurE ligase identify potential anti-TB compounds from S. nigrum extract.
+Developed machine learning-based QSAR models for [Alzheimer's disease (published)](https://journals.sagepub.com/doi/10.1177/0976500X261417108) and schizophrenia drug discovery. Assisted in molecular docking and molecular dynamics simulations across cancer, tuberculosis, and neurological disease targets to study protein-ligand interactions and develop reproducible bioinformatics workflows across systems biology and genomics applications. Analyzed Solanum nigrum extract for antibacterial compounds using GC-MS data, successfully identifying 50 bioactive components under the guidance of [Dr. Sugapriya](https://scholar.google.co.in/citations?hl=en&user=dieHes4AAAAJ). This research has laid the groundwork for novel antimicrobial investigations using plant-based compounds. Conducted in silico docking studies on M. tuberculosis MurE ligase identify potential anti-TB compounds from S. nigrum extract.
 
 ![Research](/sohith/images/jinr_1.jpg){: .align-right width="350px"}
 **Research Intern, Joint Institute for Nuclear Research, Moscow, Russia (Remote)**                                                                     
@@ -119,12 +119,13 @@ During this internship, I focused on histological analysis of the central nervou
 **Research Intern, Genomac Hub, Ogbomosho, Nigeria (Remote)**                                                                                      
 *SEP' 24 - NOV' 24*
 
-I worked on selecting peptides with potential anti-cancer activity by analyzing key biochemical properties such as hydrophobicity, net charge, stability, half-life, and Boman index. These properties help determine a peptide's ability to interact with cancer cell membranes, stability in biological environments, and target specificity. Using correlation heat maps and PCA analysis, our team identified 28 bacterial peptides, 18 probiotic bacterial peptides, 6 fungal peptides, and 4 metagenomic peptides. My specific focus was on peptides from the soil bacterium Streptomyces parvus, contributing to the overall findings of potential anti-cancer candidates. [Graduation Ceremony](https://www.youtube.com/live/Bzw7sYRSYVg?si=28OAN3kkAOeAFobr)                                                                          
+I worked on selecting peptides with potential anti-cancer activity by analyzing key biochemical properties such as hydrophobicity, net charge, stability, half-life, and Boman index. These properties help determine a peptide's ability to interact with cancer cell membranes, stability in biological environments, and target specificity. Using correlation heat maps and PCA analysis, our team identified 28 bacterial peptides, 18 probiotic bacterial peptides, 6 fungal peptides, and 4 metagenomic peptides. My specific focus was on peptides from the soil bacterium Streptomyces parvus, contributing to the overall findings of potential anti-cancer candidates. [Graduation Ceremony](https://www.youtube.com/live/Bzw7sYRSYVg?si=28OAN3kkAOeAFobr)    
 
+![res](/sohith/images/kannan.jpg){: .align-right width="400px"}
 **Undergraduate Research Student, Saveetha School of Engineering, Chennai, India (On-site)**                                                              
 *JAN' 23 - MAR' 24*
 
-Under the supervision of [Dr. Kannan](https://scholar.google.co.in/citations?hl=en&user=RwsuY0gAAAAJ), I conducted data preprocessing and exploratory data analysis (EDA) on the ChEMBL dataset for Acute Myeloid Leukemia’s drug discovery using pandas and matplotlib/seaborn. I implemented and compared various machine learning models (Random Forest, SVM, XGBoost), achieving an accuracy of 82% with Random Forest for predicting potential drug candidates. Additionally, I performed molecular docking analysis using AutoDock Vina, applied Lipinski's Rule of Five with RDKit, and executed molecular dynamics simulations using GROMACS to validate and analyze protein-ligand interactions of promising Alzheimer's drug candidates.
+Under the supervision of [Dr. Kannan](https://scholar.google.co.in/citations?hl=en&user=RwsuY0gAAAAJ), I conducted data preprocessing and exploratory data analysis (EDA) on the ChEMBL dataset for Acute Myeloid Leukemia’s drug discovery using pandas and matplotlib/seaborn. I implemented and compared various machine learning models (Random Forest, SVM, XGBoost), achieving an accuracy of 82% with Random Forest for predicting potential drug candidates. Additionally, I performed molecular docking analysis using AutoDock Vina, applied Lipinski's Rule of Five with RDKit, and executed molecular dynamics simulations using GROMACS to validate and analyze protein-ligand interactions of promising Alzheimer's drug candidates. This work was successfully published in [Current Chemical Biology](https://www.benthamdirect.com/content/journals/ccb/10.2174/0122127968399382250722063606), contributing novel computational insights toward AML therapeutic development.
 
 
 

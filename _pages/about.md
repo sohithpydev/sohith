@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I’m a final-year Bioinformatics undergrad at Saveetha School of Engineering, SIMATS University, Chennai, driven by an interest in mathematical modeling, cheminformatics, and AI-driven approaches for understanding complex biological systems.
+I’m an MS Artificial Intelligence student at Soongsil University, Seoul, South Korea, with a background in Bioinformatics from SIMATS University, Chennai, India. My interests lie at the intersection of artificial intelligence, computational biology, mathematical modeling, and cheminformatics, with a focus on developing computational approaches to understand complex biological systems.
 
 ## **What I’m Working On**
 
-Right now, I’m collaborating with Chang Gung University, Taiwan under Dr. Scott C. Schuyler, working on **virtual screening and computational drug discovery**, focusing on large-scale compound evaluation against targets like the APC/C complex and Influenza A virus.
+Right now, I’m working as a lab associate at Chang Gung University, Taiwan under Dr. Scott C. Schuyler, working on **virtual screening and computational drug discovery**, focusing on large-scale compound evaluation against targets like the APC/C complex and Influenza A virus.
 
 ## **My Journey So Far**
 
-Over the past few years, I’ve worked on interdisciplinary projects spanning bioinformatics, structural biology, and predictive modeling.
+Over the past few years, I’ve worked on interdisciplinary projects on-site; spanning bioinformatics, structural biology, and predictive modeling.
 
 - **Chang Gung University, Taiwan:** As an **IIPP Scholar in the Department of Biomedical Sciences under Dr. Scott Charles Schuyler**, I analyzed structural and sequence-level data of the **Influenza A (H5N1) RNA-dependent RNA polymerase complex**, integrating **computational modeling and virtual screening approaches**. I am currently developing a **large-scale AI-driven screening pipeline** to evaluate ~10 million compounds, with a focus on **QSAR modeling, feature representation, and optimization of predictive performance**.
 
@@ -42,10 +42,10 @@ Research Experience
 **Current Experience**
 
 ![Research](/sohith/images/cgu_1.jpg){: .align-right width="300px"}
-**Research Collaborator / Ongoing Research Intern, Chang Gung University, Taoyuan, Taiwan (Hybrid)** 
+**Research Intern --> Lab Associate, Chang Gung University, Taoyuan, Taiwan (Hybrid)** 
 *AUG' 25 - PRESENT*
 
-Analyzing Influenza A virus RdRp (H5N1) structures to identify and prioritize potential target sites for small-molecule inhibition in this pilot project funded with NT$2,600,000, in collaboration with the Department of Chemical Engineering, IIT Delhi, and RIIS, Okayama University, Japan. Developing and implementing an AI-driven virtual screening pipeline for ultralarge library to discover cost-effective, orally available inhibitors for avian feed applications under the guidance of PI [Scott C. Schuyler](https://scs03596.wixsite.com/scslab), and [Prof. Goel](https://www.linkedin.com/in/goelgiitd/) from IIT Delhi, aiming to reduce zoonotic transmission. 
+Analyzing Influenza A virus RdRp (H5N1) structures to identify and prioritize potential target sites for small-molecule inhibition in this pilot project funded with NT$2.6M, in collaboration with the Department of Chemical Engineering, IIT Delhi, and RIIS, Okayama University, Japan. Developing and implementing an AI-driven virtual screening pipeline for ultralarge library to discover cost-effective, orally available inhibitors for avian feed applications under the guidance of PI [Scott C. Schuyler](https://scs03596.wixsite.com/scslab), and [Prof. Goel](https://www.linkedin.com/in/goelgiitd/) from IIT Delhi, aiming to reduce zoonotic transmission. 
 
 **Previous Experience**
 

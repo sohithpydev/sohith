@@ -42,7 +42,7 @@ Research Experience
 **Current Experience**
 
 ![Research](/sohith/images/cgu_1.jpg){: .align-right width="300px"}
-**Research Intern --> Lab Associate, Chang Gung University, Taoyuan, Taiwan (Hybrid)** 
+**Research Intern (On-site) --> Lab Associate, Chang Gung University, Taoyuan, Taiwan🇹🇼 (Hybrid)** 
 *AUG' 25 - PRESENT*
 
 Analyzing Influenza A virus RdRp (H5N1) structures to identify and prioritize potential target sites for small-molecule inhibition in this pilot project funded with NT$2.6M, in collaboration with the Department of Chemical Engineering, IIT Delhi, and RIIS, Okayama University, Japan. Developing and implementing an AI-driven virtual screening pipeline for ultralarge library to discover cost-effective, orally available inhibitors for avian feed applications under the guidance of PI [Scott C. Schuyler](https://scs03596.wixsite.com/scslab), and [Prof. Goel](https://www.linkedin.com/in/goelgiitd/) from IIT Delhi, aiming to reduce zoonotic transmission. 
@@ -64,7 +64,7 @@ Analyzing Influenza A virus RdRp (H5N1) structures to identify and prioritize po
 
   <!-- Text flows around and under images -->
   <div>
-    <strong>Research Intern, KEK, Tsukuba, Japan (On-site)</strong><br>
+    <strong>Research Intern, KEK, Tsukuba, Japan🇯🇵(On-site)</strong><br>
     <em style="display: block; margin-bottom: 1em;">JULY' 25 - AUG' 25</em>
 
     <p>
@@ -84,14 +84,14 @@ Analyzing Influenza A virus RdRp (H5N1) structures to identify and prioritize po
 </p>
 
 ![Research](/sohith/images/jinr_1.jpg){: .align-right width="350px"}
-**Research Intern, Joint Institute for Nuclear Research, Moscow, Russia (Remote)**                                                                     
+**Research Intern, Joint Institute for Nuclear Research, Moscow, Russia🇷🇺(Remote)**                                                                     
 *MAR' 25 - APR' 25*
 
 During this virtual internship, I focused on histological analysis of the central nervous system post-irradiation, with two key objectives. First, I performed manual classification of neurons and glial cells using ImageJ’s Cell Counter plugin. I mapped anatomical brain regions with guidance from the Allen Brain Atlas and classical histology references. Second, I quantified apoptotic cell death by analyzing TUNEL-stained sections to detect and compare TUNEL-positive cells between control and irradiated samples. This integrated approach combined traditional neurohistology with digital image analysis to enhance the accuracy and efficiency of CNS pathology assessment. [Report Link](https://docs.google.com/document/d/1SDh0sFIgMSiuCpJ-axugk5Nn8dxYnNOT94AW9oLpdHU/edit?usp=sharing)   
 
 ![Research](/sohith/images/ndhu_1.JPG){: .align-right width="140px"}
 ![Research](/sohith/images/ndhu_2.jpeg){: .align-right width="150px"}
-**Research Intern, National Dong Hwa University, Hualien, Taiwan (On-site)**                                                                              
+**Research Intern, National Dong Hwa University, Hualien, Taiwan🇹🇼(On-site)**                                                                              
 *JAN' 25 - JUN' 25*
 
 Operated Bruker's MALDI-TOF mass spectrometer at [Biophysics Mass Spectrometry Lab, NDHU](http://faculty.ndhu.edu.tw/~PENGW/contact/) for TB and NTM sample analysis under the supervision of [Dr. Wing Peng-Ping](https://www.researchgate.net/profile/Wen-Ping-Peng/research) and developed ML models for tuberculosis classification using acquired spectral data and performing statistical analysis and feature selection to identify significant m/z peaks, coupled with spectral data visualization for enhanced interpretability.
@@ -100,7 +100,7 @@ Operated Bruker's MALDI-TOF mass spectrometer at [Biophysics Mass Spectrometry L
   <em>Lab members of BMS group at Liyu Lake after a trek 🌿</em>
 </p> 
 
-**Research Assistant, University of Colorado Colorado Springs (UCCS), Colorado Springs, United States of America (Remote)**                                                                                                                  
+**Research Assistant, University of Colorado Colorado Springs (UCCS), Colorado Springs, USA🇺🇸(Remote)**                                                                                                                  
 *MAY' 24 - MAY' 26*
 
 Worked in collaboration with the UCCS and Ioncure to develop and apply AI-driven methods for evaluating neurodegeneration awareness. Leveraged Natural Language Processing (NLP), Computer Vision, Machine Learning, and advanced data science techniques to analyze diverse data sources.
@@ -110,13 +110,13 @@ Worked in collaboration with the UCCS and Ioncure to develop and apply AI-driven
 
 ![Research](/sohith/images/lab_3.png){: .align-right width="200px"}
 ![Research](/sohith/images/lab_2.png){: .align-right width="200px"}
-**Research Assistant, Manipal University College, Melaka, Malaysia (Hybrid)**                                                                   
+**Research Assistant, Manipal University College, Melaka, Malaysia🇲🇾(Hybrid)**                                                                   
 *APR' 24 - APR' 26*
 
 Developed machine learning-based QSAR models for [Alzheimer's disease (published)](https://journals.sagepub.com/doi/10.1177/0976500X261417108) and schizophrenia drug discovery. Assisted in molecular docking and molecular dynamics simulations across cancer, tuberculosis, and neurological disease targets to study protein-ligand interactions and develop reproducible bioinformatics workflows across systems biology and genomics applications. Analyzed Solanum nigrum extract for antibacterial compounds using GC-MS data, successfully identifying 50 bioactive components under the guidance of [Dr. Sugapriya](https://scholar.google.co.in/citations?hl=en&user=dieHes4AAAAJ). This research has laid the groundwork for novel antimicrobial investigations using plant-based compounds. Conducted in silico docking studies on M. tuberculosis MurE ligase identify potential anti-TB compounds from S. nigrum extract.                                    
 
 ![res](/sohith/images/kannan.jpg){: .align-right width="400px"}
-**Undergraduate Research Student, Saveetha School of Engineering, Chennai, India (On-site)**                                                              
+**Undergraduate Research Student, Saveetha School of Engineering, Chennai, India🇮🇳(On-site)**                                                              
 *JAN' 23 - MAR' 24*
 
 Under the supervision of [Dr. Kannan](https://scholar.google.co.in/citations?hl=en&user=RwsuY0gAAAAJ), I conducted data preprocessing and exploratory data analysis (EDA) on the ChEMBL dataset for Acute Myeloid Leukemia’s drug discovery using pandas and matplotlib/seaborn. I implemented and compared various machine learning models (Random Forest, SVM, XGBoost), achieving an accuracy of 82% with Random Forest for predicting potential drug candidates. Additionally, I performed molecular docking analysis using AutoDock Vina, applied Lipinski's Rule of Five with RDKit, and executed molecular dynamics simulations using GROMACS to validate and analyze protein-ligand interactions of promising Alzheimer's drug candidates. This work was successfully published in [Current Chemical Biology](https://www.benthamdirect.com/content/journals/ccb/10.2174/0122127968399382250722063606), contributing novel computational insights toward AML therapeutic development.

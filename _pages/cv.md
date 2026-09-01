@@ -63,7 +63,7 @@ Research Experience
 * Collaborated on comprehensive drug discovery and therapeutics reviews with Dr. Sugapriya, integrating her leukemia-focused wet lab research with my dry lab expertise, advancing interdisciplinary research on emerging medical challenges.
 
 **On-site Undergraduate Research Student [Saveetha School of Engineering, India]**    
-*Jan ’23 - Mar ’24*
+*Jan ’24 - Mar ’24*
 
 * Under Kannan's supervision, conducted data preprocessing and exploratory data analysis (EDA) on the ChEMBL dataset for Alzheimer's drug discovery using pandas and matplotlib/seaborn
 * Implemented and compared machine learning models (Random Forest, SVM, XGBoost) with scikit-learn, achieving 82% accuracy with Random Forest for predicting potential drug candidates.

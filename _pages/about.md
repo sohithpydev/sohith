@@ -11,7 +11,7 @@ I’ve recently graduated with an Engineering Degree specialising in Bioinformat
 
 ## **What I’m Working On**
 
-Right now, I’m working as a lab associate at Chang Gung University, Taiwan under Dr. Scott C. Schuyler, working on **virtual screening and computational drug discovery**, focusing on large-scale compound evaluation against targets like the APC/C complex and Influenza A virus.
+Right now, I’m working as a lab associate at Chang Gung University, Taiwan under Dr. Scott C. Schuyler, working on *AI-driven drug (lead) discovery**, focusing on ultra-large chemical space against targets like the APC/C complex and Influenza A virus.
 
 ## **My Journey So Far**
 

@@ -17,22 +17,12 @@ B.E. in Bioinformatics, SIMATS University, 2026
 
 
 Research Experience
-======
-**Remote Undergraduate Student Researcher [University of Colorado Colorado Springs, USA]**		         
-*Dec ‘24 - Present*
+======  
+**On-site Research Intern --> Hybrid Lab Associate [Chang Gung University, Taiwan]**
+*Aug '25 - Present*
 
-* Working in collaboration with the University of Colorado and Ioncure to develop and apply AI-driven methods for evaluating neurodegeneration awareness. 
-* Leveraging Natural Language Processing (NLP), Computer Vision, Machine Learning, and advanced data science techniques to analyze diverse data sources
-
-
-**Hybrid Research Assistant [Manipal University College, Malaysia]**                                                 
-*Apr ’24 - Present*
-
-* Analyzed S. nigrum extract for antibacterial compounds using GC-MS, identifying 50 bioactive components under Sugapriya's guidance
-* Established a foundation for novel antimicrobial research using plant-based compounds.
-* Conducted in silico docking studies on M. tuberculosis MurE ligase (2XJA) using AutoDock Vina to identify potential anti-TB agents in S. nigrum extract; discovered anthracene, 9-ethyl-9,10-dihydro as a promising anti-TB compound.
-* Applied a systems biology approach to tuberculosis research, identifying key hub genes responsible for the disease. Utilized Cytoscape for network analysis and R programming (with caret, dplyr, ggplot2 packages) for data analysis, machine learning model building, and visualization to complement the wet lab research.
-* Collaborated on comprehensive drug discovery and therapeutics reviews with Dr. Sugapriya, integrating her leukemia-focused wet lab research with my dry lab expertise, advancing interdisciplinary research on emerging medical challenges.
+* Completed an on-site research internship focused on structure-based drug discovery targeting the APC/C complex, involving molecular modeling and virtual screening for anti-mitotic therapeutic development.
+* Contributing to an NT$2.6M collaborative project with IIT Delhi and Okayama University, and developing an AI-driven virtual screening workflow on Linux/HPC infrastructure to screen billion-scale chemical libraries for cost-effective and orally bioavailable lead compounds.
 
 
 **On-site Research Intern [KEK (High Energy Accelerator Research Organization), Japan]**
@@ -42,6 +32,13 @@ Research Experience
 * Assisted in the creation of beginner-friendly English manuals and technical documentation to support future international interns and early-stage researchers at KEK, covering common workflows and troubleshooting in macromolecular crystallography.
 
 
+**Remote Research Intern [Joint Institute for Nuclear Research, Russia]**
+*Mar '25 - Apr '25*
+
+* Performed atlas-guided virtual histological analysis of irradiated CNS tissue using ImageJ and the Allen Brain Atlas, classifying neurons, glia, and apoptotic cells.
+* Automated quantification of TUNEL-positive apoptotic cells, revealing significant post-irradiation increase (p < 0.001) via robust image processing and statistical analysis. Supervisor: Inna Kolesnikova
+
+
 **On-site Research Intern [National Dong Hwa University, Taiwan]**
 *Jan '25 - Jun '25*
 
@@ -49,12 +46,21 @@ Research Experience
 * Handled MALDI-TOF instrumentation and applied nanodiamond-based enrichment for sputum sample analysis. And, Performed statistical analysis and m/z feature selection, improving diagnostic interpretability and external validation accuracy (90%).
 
 
-**Remote Research Intern [Joint Institute for Nuclear Research, Russia]**
-*Mar '25 - Apr '25*
+**Remote Undergraduate Student Researcher [University of Colorado Colorado Springs, USA]**		         
+*May ‘24 - May '26*
 
-* Performed atlas-guided virtual histological analysis of irradiated CNS tissue using ImageJ and the Allen Brain Atlas, classifying neurons, glia, and apoptotic cells.
-* Automated quantification of TUNEL-positive apoptotic cells, revealing significant post-irradiation increase (p < 0.001) via robust image processing and statistical analysis. Supervisor: Inna Kolesnikova
+* Worked in collaboration with the University of Colorado and Ioncure to develop and apply AI-driven methods for evaluating neurodegeneration awareness. 
+* Leveraged Natural Language Processing (NLP), Computer Vision, Machine Learning, and advanced data science techniques to analyze diverse data sources
 
+
+**Hybrid Research Assistant [Manipal University College, Malaysia]**                                                 
+*Apr ’24 - Apr '26*
+
+* Analyzed S. nigrum extract for antibacterial compounds using GC-MS, identifying 50 bioactive components under Sugapriya's guidance
+* Established a foundation for novel antimicrobial research using plant-based compounds.
+* Conducted in silico docking studies on M. tuberculosis MurE ligase (2XJA) using AutoDock Vina to identify potential anti-TB agents in S. nigrum extract; discovered anthracene, 9-ethyl-9,10-dihydro as a promising anti-TB compound.
+* Applied a systems biology approach to tuberculosis research, identifying key hub genes responsible for the disease. Utilized Cytoscape for network analysis and R programming (with caret, dplyr, ggplot2 packages) for data analysis, machine learning model building, and visualization to complement the wet lab research.
+* Collaborated on comprehensive drug discovery and therapeutics reviews with Dr. Sugapriya, integrating her leukemia-focused wet lab research with my dry lab expertise, advancing interdisciplinary research on emerging medical challenges.
 
 **On-site Undergraduate Research Student [Saveetha School of Engineering, India]**    
 *Jan ’23 - Mar ’24*

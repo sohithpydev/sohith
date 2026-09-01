@@ -11,23 +11,23 @@ I’ve recently graduated with an Engineering Degree specialising in Bioinformat
 
 ## **What I’m Working On**
 
-Right now, I’m working as a lab associate at Chang Gung University, Taiwan under Dr. Scott C. Schuyler, working on *AI-driven drug (lead) discovery**, focusing on ultra-large chemical space against targets like the APC/C complex and Influenza A virus.
+Right now, I’m working as a lab associate at Chang Gung University, Taiwan under Dr. Scott C. Schuyler, working on **AI-driven drug (lead) discovery**, focusing on ultra-large chemical space against targets like the APC/C complex and Influenza A virus. You may check our work here: [Link](https://scs03596.wixsite.com/scslab/drug-discovery-aid-tool)
 
 ## **My Journey So Far**
 
 Over the past few years, I’ve worked on interdisciplinary projects on-site; spanning bioinformatics, structural biology, and predictive modeling.
 
-- **Chang Gung University, Taiwan:** As an **IIPP Scholar in the Department of Biomedical Sciences under Dr. Scott Charles Schuyler**, I analyzed structural and sequence-level data of the **Influenza A (H5N1) RNA-dependent RNA polymerase complex**, integrating **computational modeling and virtual screening approaches**. I am currently developing a **large-scale AI-driven screening pipeline** to evaluate ~10 million compounds, with a focus on **QSAR modeling, feature representation, and optimization of predictive performance**.
+- **Chang Gung University, Taiwan:** As an **IIPP Scholar in the Department of Biomedical Sciences under Dr. Scott Charles Schuyler**, I analyzed structural and sequence-level data of the **APC/C Complex (Bardford Structure)**, integrating **computational modeling and virtual screening approaches**. I am currently developing a **large-scale AI-driven screening pipeline** to evaluate ultra-large chemical library against this target.
 
 - **National Dong Hwa University, Taiwan:** As a **TEEP@Asia+ Scholar**, I designed a machine learning framework for TB/NTM classification using **MALDI-TOF mass spectrometry data**, incorporating signal preprocessing, feature engineering (TIC, AUC, FWHM), and benchmarking across multiple models (including LightGBM and CatBoost), with emphasis on **model generalization and interpretability (SHAP analysis)**.
 
-- **KEK, Japan:** At the **Structural Biology Research Center**, I gained exposure to **high-resolution structural datasets** and contributed to computational workflows and documentation supporting structural data analysis pipelines.
+- **KEK, Japan:** At the **Structural Biology Research Center**, I gained exposure to **high-resolution structural datasets** and contributed to computational workflows and documentation supporting structural data analysis pipelines,
 
 ## **Beyond the Lab**
 
 Outside research, I enjoy mentoring students in **programming, machine learning, and data science**, especially those transitioning into computational research. I’m particularly interested in building resources that simplify complex topics like modeling, algorithm design, and applied AI in biology.
 
-Travel has also shaped my perspective—from Taiwanese research labs to Japanese research centers—constantly reinforcing how interdisciplinary and collaborative modern science has become.
+Travel has also shaped my perspective - from Taiwanese research labs to Japanese research centers - constantly reinforcing how interdisciplinary and collaborative modern science has become.
 
 ## **Looking Ahead**
 

@@ -42,8 +42,7 @@ Research Experience
 **Current Experience**
 
 ![Research](/sohith/images/cgu_1.jpg){: .align-right width="300px"}
-**Research Intern (On-site) --> Lab Associate, Chang Gung University, Taoyuan, Taiwan🇹🇼 (Hybrid)** 
-*AUG' 25 - PRESENT*
+**Research Intern (On-site) --> Lab Associate, Chang Gung University, Taoyuan, Taiwan🇹🇼 (Hybrid)**                                                                              *AUG' 25 - PRESENT*
 
 Analyzing Influenza A virus RdRp (H5N1) structures to identify and prioritize potential target sites for small-molecule inhibition in this pilot project funded with NT$2.6M, in collaboration with the Department of Chemical Engineering, IIT Delhi, and RIIS, Okayama University, Japan. Developing and implementing an AI-driven virtual screening pipeline for ultralarge library to discover cost-effective, orally available inhibitors for avian feed applications under the guidance of PI [Scott C. Schuyler](https://scs03596.wixsite.com/scslab), and [Prof. Goel](https://www.linkedin.com/in/goelgiitd/) from IIT Delhi, aiming to reduce zoonotic transmission. 
 

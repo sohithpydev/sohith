@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m an MS Artificial Intelligence student at Soongsil University, Seoul, South Korea, with a background in Bioinformatics from SIMATS University, Chennai, India. My interests lie at the intersection of artificial intelligence, computational biology, mathematical modeling, and cheminformatics, with a focus on developing computational approaches to understand complex biological systems.
+I’ve recently graduated with an Engineering Degree specialising in Bioinformatics from SIMATS University, Chennai, India. My interests lie at the intersection of artificial intelligence, computational biology, mathematical modeling, and cheminformatics, with a focus on developing computational approaches to understand complex biological systems.
 
 ## **What I’m Working On**
 

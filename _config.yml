@@ -26,9 +26,9 @@ author:
   avatar           : "profile.jpeg"
   name             : "Sohith Reddy"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "MS in AI @ Soongsil University, Seoul 🇰🇷 & AI-Bioinformatics Lab Associate @ SCS Lab, Chang Gung University, Taoyuan 🇹🇼"
-  location         : "Seoul, South Korea 🇰🇷"
-  University       : "Soongsil University"
+  bio              : "AI-Bioinformatics Lab Associate @ SCS Lab, Chang Gung University, Taoyuan 🇹🇼"
+  location         : "Taoyuan, Taiwan 🇰🇷"
+  University       : "Chang Gung University"
   email            : "sohith.bme@gmail.com" 
 
   # Academic websites
